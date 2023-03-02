@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a7831811-3a78-4df6-a0a0-b2b5064448cc)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 21.59 27.94) (size 73.66 161.29) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ba940d30-a973-4010-a650-2875abe3af9d)
+    (property "Sheetname" "Chord" (at 21.59 27.2284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "chord.kicad_sch" (at 21.59 189.8146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "autoharpie"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/4d9f1d6c-21ab-45cf-b058-d32e1eb1198b/bbd25279-d174-451e-b2ab-8659e9a0bb56" (page "9"))
+      )
+    )
+  )
+)
