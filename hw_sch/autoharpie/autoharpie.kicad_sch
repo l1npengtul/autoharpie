@@ -363,14 +363,14 @@
     )
   )
 
-  (sheet (at 33.02 81.28) (size 62.23 35.56) (fields_autoplaced)
+  (sheet (at 33.02 128.27) (size 62.23 35.56) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 99b052d6-7969-4dd2-91c7-8bd18b784c30)
-    (property "Sheetname" "USB Power" (at 33.02 80.5684 0)
+    (property "Sheetname" "USB Power" (at 33.02 127.5584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "usb_psu.kicad_sch" (at 33.02 117.4246 0)
+    (property "Sheetfile" "usb_psu.kicad_sch" (at 33.02 164.4146 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances

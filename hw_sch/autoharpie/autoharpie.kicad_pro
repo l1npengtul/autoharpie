@@ -515,6 +515,14 @@
     [
       "7d47d762-e01e-47d9-808c-355f558f76b0",
       "Bus Switch Complex 1"
+    ],
+    [
+      "b9214bd8-f039-4d0c-a193-1d9cdb5f9354",
+      "Microcontroller"
+    ],
+    [
+      "0c00602c-4506-4939-9f7e-8bdb24727978",
+      "Decoupling"
     ]
   ],
   "text_variables": {}
