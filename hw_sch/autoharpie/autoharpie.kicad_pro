@@ -481,8 +481,8 @@
       "USB Power"
     ],
     [
-      "8300e239-63fd-4757-ab67-f4147ed78b06",
-      "Bus Switch Complex 2"
+      "4bf8f853-6b41-49ff-b757-5f95d74b4db0",
+      "Bus Switch 2"
     ],
     [
       "bbd25279-d174-451e-b2ab-8659e9a0bb56",
@@ -505,24 +505,24 @@
       "Chord"
     ],
     [
-      "b8051c04-a7df-40cc-9503-1a09bbc997c4",
-      "Touch Pads"
+      "bb0f549f-baab-4f11-82d1-27ceec58bab0",
+      "Bus Switch 3"
     ],
     [
       "0b1fbad8-3dd4-4067-8b2d-c3d709369b4a",
       "Multiplexer"
     ],
     [
-      "7d47d762-e01e-47d9-808c-355f558f76b0",
-      "Bus Switch Complex 1"
+      "cc212423-9557-4418-a64c-0b3dda62e6f1",
+      "Bus Switch 1"
     ],
     [
-      "b9214bd8-f039-4d0c-a193-1d9cdb5f9354",
-      "Microcontroller"
+      "854ff56d-5c91-40e8-bba0-492c32fcf852",
+      "Bus Switch 4"
     ],
     [
-      "0c00602c-4506-4939-9f7e-8bdb24727978",
-      "Decoupling"
+      "0fb446a0-6152-4482-9396-a74100de5dd6",
+      "Touch Pad 1"
     ]
   ],
   "text_variables": {}
