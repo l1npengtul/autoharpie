@@ -485,10 +485,6 @@
       "MIDI IO"
     ],
     [
-      "b7c2d38c-a709-4bc0-98f7-20688ab10db6",
-      "Chord"
-    ],
-    [
       "b98961c6-5a9e-45f8-94a5-02c3a7ae5bfc",
       "Display"
     ],
@@ -499,6 +495,10 @@
     [
       "f8ee59e2-6e70-4754-8893-d92df1e40c0d",
       "Keybed"
+    ],
+    [
+      "a2ec6eee-b9fb-490b-bd81-8d216c22ed93",
+      "Front Panel LEDs"
     ]
   ],
   "text_variables": {}

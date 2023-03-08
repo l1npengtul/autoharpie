@@ -3,4 +3,5 @@
   (lib (name "2023-03-03_01-16-44")(type "KiCad")(uri "/home/l1npengtul/IdeaProjects/autoharpie/hw_sch/symbols/ul_MIMXRT106SDVL6B/KiCAD/2023-03-03_01-16-44/2023-03-03_01-16-44.kicad_sym")(options "")(descr ""))
   (lib (name "2023-03-03_00-24-58")(type "KiCad")(uri "/home/l1npengtul/IdeaProjects/autoharpie/hw_sch/symbols/ul_MIMXRT1062DVJ6B/KiCAD/2023-03-03_00-24-58/2023-03-03_00-24-58.kicad_sym")(options "")(descr ""))
   (lib (name "teensy")(type "KiCad")(uri "/home/l1npengtul/IdeaProjects/autoharpie/hw_sch/symbols/teensy_library/teensy.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-03-08_01-27-09")(type "KiCad")(uri "/home/l1npengtul/IdeaProjects/autoharpie/hw_sch/symbols/LDO/KiCAD/2023-03-08_01-27-09/2023-03-08_01-27-09.kicad_sym")(options "")(descr ""))
 )

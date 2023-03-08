@@ -19,37 +19,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "MIMXRT106SDVL6B_1_1"
-      (polyline
-        (pts
-          (xy 7.62 -127)
-          (xy 68.58 -127)
-        )
-        (stroke (width 0.127) (type solid))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 7.62 5.08)
-          (xy 7.62 -127)
-        )
-        (stroke (width 0.127) (type solid))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 68.58 -127)
-          (xy 68.58 5.08)
-        )
-        (stroke (width 0.127) (type solid))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 68.58 5.08)
-          (xy 7.62 5.08)
-        )
-        (stroke (width 0.127) (type solid))
-        (fill (type none))
+      (rectangle (start 7.62 5.08) (end 68.58 -127)
+        (stroke (width 0) (type default))
+        (fill (type background))
       )
       (pin power_in line (at 0 0 0) (length 7.62)
         (name "VSS" (effects (font (size 1.4986 1.4986))))
@@ -445,37 +417,9 @@
       )
     )
     (symbol "MIMXRT106SDVL6B_2_1"
-      (polyline
-        (pts
-          (xy 7.62 -127)
-          (xy 78.74 -127)
-        )
-        (stroke (width 0.127) (type solid))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 7.62 5.08)
-          (xy 7.62 -127)
-        )
-        (stroke (width 0.127) (type solid))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 78.74 -127)
-          (xy 78.74 5.08)
-        )
-        (stroke (width 0.127) (type solid))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 78.74 5.08)
-          (xy 7.62 5.08)
-        )
-        (stroke (width 0.127) (type solid))
-        (fill (type none))
+      (rectangle (start 7.62 5.08) (end 78.74 -127)
+        (stroke (width 0) (type default))
+        (fill (type background))
       )
       (pin bidirectional line (at 0 -71.12 0) (length 7.62)
         (name "GPIO_B0_11" (effects (font (size 1.4986 1.4986))))
