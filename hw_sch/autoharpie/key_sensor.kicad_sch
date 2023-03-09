@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e65df6c1-a4ac-4f74-b6e3-0f5ab1835273)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 198.12 48.26) (size 58.42 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid cda4a62a-efc0-4c3c-afe4-a3a5e8106a19)
+    (property "Sheetname" "Key" (at 198.12 47.5484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "key.kicad_sch" (at 198.12 80.5946 0)
+      (effects (font (size 1.27 1.27) bold) (justify left top))
+    )
+    (instances
+      (project "autoharpie"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/5fe54a22-7c8e-47ed-bfe7-4a219e05d885" (page "13"))
+      )
+    )
+  )
+)

@@ -498,7 +498,27 @@
     ],
     [
       "a2ec6eee-b9fb-490b-bd81-8d216c22ed93",
-      "Front Panel LEDs"
+      "Sequencer LEDs"
+    ],
+    [
+      "07f48ca9-d07f-4bd5-b125-75c5d3751f6b",
+      "Sequencer Buttons"
+    ],
+    [
+      "d1644cf0-bfcc-4091-b11b-bc842600e5bd",
+      "Chord LEDs"
+    ],
+    [
+      "9aa8e09a-5be2-4277-808a-d39b9d713667",
+      "Bus Switch"
+    ],
+    [
+      "5fe54a22-7c8e-47ed-bfe7-4a219e05d885",
+      "Key Sensor 1"
+    ],
+    [
+      "cda4a62a-efc0-4c3c-afe4-a3a5e8106a19",
+      "Key"
     ]
   ],
   "text_variables": {}
