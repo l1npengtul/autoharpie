@@ -363,6 +363,23 @@
     )
   )
 
+  (sheet (at 208.28 72.39) (size 62.23 34.29) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5972bd02-620e-4bf6-ac9b-f9615df1e2cc)
+    (property "Sheetname" "Audio Interface" (at 208.28 71.6784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "audio.kicad_sch" (at 208.28 107.2646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "autoharpie"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71" (page "30"))
+      )
+    )
+  )
+
   (sheet (at 33.02 101.6) (size 62.23 7.62) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
