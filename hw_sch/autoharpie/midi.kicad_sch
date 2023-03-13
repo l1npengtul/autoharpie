@@ -949,7 +949,7 @@
     (pin "1" (uuid 9e2d6c08-9b2d-4436-852a-38c486019589))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR015") (unit 1)
         )
       )
@@ -992,7 +992,7 @@
     (pin "13" (uuid 494dc566-28fb-4ebf-ac42-417bdac94a00))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "U2") (unit 1)
         )
       )
@@ -1022,7 +1022,7 @@
     (pin "1" (uuid 0b3f5728-3aff-4c6b-ab91-9b9af0f63bb2))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR014") (unit 1)
         )
       )
@@ -1052,7 +1052,7 @@
     (pin "1" (uuid 005e7f8b-6e9b-40fe-b74b-bf66ec21e81c))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR019") (unit 1)
         )
       )
@@ -1095,7 +1095,7 @@
     (pin "13" (uuid b044e29b-8b85-4d53-8d2c-16cc1010e6f1))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "U2") (unit 2)
         )
       )
@@ -1126,7 +1126,7 @@
     (pin "2" (uuid ace2dc46-2a8a-4a73-8bc1-8c41184b1c41))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "R10") (unit 1)
         )
       )
@@ -1169,7 +1169,7 @@
     (pin "13" (uuid 3c18c6ad-95ef-4517-ba97-d0276c61bd06))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "U2") (unit 4)
         )
       )
@@ -1206,7 +1206,7 @@
     (pin "8" (uuid 05f19f4b-5c81-4a4e-ac10-5ad1bc1ea42c))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "U3") (unit 1)
         )
       )
@@ -1240,7 +1240,7 @@
     (pin "5" (uuid 4c8ccf8f-9f86-408e-873b-ec00a74886a5))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "J2") (unit 1)
         )
       )
@@ -1271,7 +1271,7 @@
     (pin "2" (uuid 85191af3-3745-47ac-9340-1233bb1f26f2))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "R7") (unit 1)
         )
       )
@@ -1305,7 +1305,7 @@
     (pin "5" (uuid 81a6e141-544b-4626-bace-25d0ddfc7a8f))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "J3") (unit 1)
         )
       )
@@ -1336,7 +1336,7 @@
     (pin "2" (uuid 91c18008-dfab-41c8-a3ae-835ece4d84cd))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "R5") (unit 1)
         )
       )
@@ -1366,7 +1366,7 @@
     (pin "1" (uuid 0f365607-f3f0-46d1-9d66-5e3d1a39169c))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR020") (unit 1)
         )
       )
@@ -1396,7 +1396,7 @@
     (pin "1" (uuid 09524a04-fe71-4404-91d8-60b75aef42dd))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR018") (unit 1)
         )
       )
@@ -1427,7 +1427,7 @@
     (pin "2" (uuid 8327babe-7ad3-44db-8534-de0d77493cef))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "R6") (unit 1)
         )
       )
@@ -1457,7 +1457,7 @@
     (pin "1" (uuid 9c1acd5a-98b0-4d7c-abdb-f5b1eaeeae3c))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR022") (unit 1)
         )
       )
@@ -1491,7 +1491,7 @@
     (pin "5" (uuid fab1bed1-2ced-43d0-953f-576942cc3048))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "J4") (unit 1)
         )
       )
@@ -1528,7 +1528,7 @@
     (pin "2" (uuid aa9f3f45-6589-45c7-aa1c-6a44823522d8))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "D1") (unit 1)
         )
       )
@@ -1559,7 +1559,7 @@
     (pin "2" (uuid c0096308-16d1-4b79-80ca-10b16569032d))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "R8") (unit 1)
         )
       )
@@ -1602,7 +1602,7 @@
     (pin "13" (uuid e2cb2d7e-187d-4667-8720-8c740037cdd2))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "U2") (unit 3)
         )
       )
@@ -1633,7 +1633,7 @@
     (pin "2" (uuid ac4b398d-b826-4ff0-b03f-956fb827ac6c))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "R9") (unit 1)
         )
       )
@@ -1663,7 +1663,7 @@
     (pin "1" (uuid e6779311-7856-44a9-acc2-f94f94ee20c5))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR024") (unit 1)
         )
       )
@@ -1693,7 +1693,7 @@
     (pin "1" (uuid b9badfc8-0a62-4532-a3c8-6da93671764a))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR021") (unit 1)
         )
       )
@@ -1723,7 +1723,7 @@
     (pin "1" (uuid 00b53c42-b642-450c-9aa4-fbf9a3bb5069))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR016") (unit 1)
         )
       )
@@ -1748,7 +1748,7 @@
     (pin "1" (uuid c4692aff-049b-4874-9581-bcb600298c0a))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR017") (unit 1)
         )
       )
@@ -1779,7 +1779,7 @@
     (pin "2" (uuid 7b4e4676-a21e-4b72-819e-f09c91fb923c))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "R4") (unit 1)
         )
       )
@@ -1809,7 +1809,7 @@
     (pin "1" (uuid a12d0297-5dd2-4332-ac0e-10b5a21b2285))
     (instances
       (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/7f2e6e78-e930-4611-a463-940163db48b1"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
           (reference "#PWR023") (unit 1)
         )
       )

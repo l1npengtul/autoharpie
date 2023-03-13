@@ -481,7 +481,7 @@
       "USB Power"
     ],
     [
-      "7f2e6e78-e930-4611-a463-940163db48b1",
+      "27ed800e-6367-4383-9a1e-f16e4f370da3",
       "MIDI IO"
     ],
     [
@@ -585,8 +585,16 @@
       "Key 8"
     ],
     [
+      "b75c61c9-1ee2-4ab5-8b9d-2d4f3f480ea9",
+      "RX Pin Filter"
+    ],
+    [
       "5972bd02-620e-4bf6-ac9b-f9615df1e2cc",
       "Audio Interface"
+    ],
+    [
+      "aea2df6f-e8a4-4555-86eb-f5d07f968e05",
+      "Buttons"
     ]
   ],
   "text_variables": {}
