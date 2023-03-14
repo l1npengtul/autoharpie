@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MSP430FR2633IDA
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=32
+Version=1.1
+Released=2018-06-21 12:49:32
+Downloaded=2023-03-14 00:52:44
+3D=Y

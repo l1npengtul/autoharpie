@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSP430FR2633IDA
+D 16-bit Microcontrollers - MCU MSP430 MCU with CapTIvate technology - the lowest power, most noise-immune capacitive touch 32-TSSOP -40 to 85
+K
+F http://www.ti.com/lit/ds/symlink/msp430fr2633.pdf
+$ENDCMP
+#
+#End Doc Library

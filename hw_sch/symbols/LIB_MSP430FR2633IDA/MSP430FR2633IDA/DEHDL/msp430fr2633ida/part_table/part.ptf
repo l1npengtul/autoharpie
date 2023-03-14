@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MSP430FR2633IDA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "MSP430FR2633IDA" (!) = "", "SOP65P810X120-32N", "Small Outline Packages", "595-MSP430FR2633IDA", "https://www.mouser.com/Search/Refine.aspx?Keyword=595-MSP430FR2633IDA", "MSP430FR2633IDA", "https://www.arrow.com/en/products/msp430fr2633ida/texas-instruments", "16-bit Microcontrollers - MCU MSP430 MCU with CapTIvate technology - the lowest power, most noise-immune capacitive touch 32-TSSOP -40 to 85", "http://www.ti.com/lit/ds/symlink/msp430fr2633.pdf", "1.2 mm"
+END_PART
+
+END.

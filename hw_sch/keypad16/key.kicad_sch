@@ -1,0 +1,1333 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3cf6d99b-7df7-4257-b79d-ed75fb221cad)
+
+  (paper "A4")
+
+  (lib_symbols
+    (symbol "Connector:TestPoint" (pin_numbers hide) (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
+      (property "Reference" "TP" (at 0 6.858 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Value" "TestPoint" (at 0 5.08 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (at 5.08 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "~" (at 5.08 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "test point tp" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "test point" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "Pin* Test*" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "TestPoint_0_1"
+        (circle (center 0 3.302) (radius 0.762)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "TestPoint_1_1"
+        (pin passive line (at 0 0 90) (length 2.54)
+          (name "1" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+  )
+
+  (junction (at 88.9 67.31) (diameter 0) (color 0 0 0 0)
+    (uuid 0b59c70b-6d14-4967-8754-c90de8e4c9a7)
+  )
+  (junction (at 88.9 118.11) (diameter 0) (color 0 0 0 0)
+    (uuid 29fe6785-f662-4e7e-9e65-62deaaaa3354)
+  )
+  (junction (at 88.9 143.51) (diameter 0) (color 0 0 0 0)
+    (uuid 531f2264-6ef3-400a-9a44-25fb33fddce5)
+  )
+  (junction (at 127 67.31) (diameter 0) (color 0 0 0 0)
+    (uuid 5c5f8851-127b-49c5-988d-aef1f4171d37)
+  )
+  (junction (at 127 92.71) (diameter 0) (color 0 0 0 0)
+    (uuid 6e512a64-50f1-4719-a062-30f499bf8b71)
+  )
+  (junction (at 88.9 92.71) (diameter 0) (color 0 0 0 0)
+    (uuid 7c085dd6-510c-45f5-8cbf-2ff61765b505)
+  )
+  (junction (at 127 118.11) (diameter 0) (color 0 0 0 0)
+    (uuid 8412f51f-f27a-4fa9-97f5-ff1efc9e8a7a)
+  )
+
+  (wire (pts (xy 87.63 67.31) (xy 88.9 67.31))
+    (stroke (width 0) (type default))
+    (uuid 0da09332-4dd9-4f38-beec-b33fb44843f2)
+  )
+  (wire (pts (xy 125.73 118.11) (xy 127 118.11))
+    (stroke (width 0) (type default))
+    (uuid 12aac535-ffc5-453f-a9a5-2a4da2c84dac)
+  )
+  (wire (pts (xy 87.63 118.11) (xy 88.9 118.11))
+    (stroke (width 0) (type default))
+    (uuid 14e12295-3fd1-461b-8668-40c29560bbd4)
+  )
+  (wire (pts (xy 101.6 92.71) (xy 102.87 92.71))
+    (stroke (width 0) (type default))
+    (uuid 17387e8e-cd81-40d2-bc0b-d4041d443427)
+  )
+  (wire (pts (xy 63.5 143.51) (xy 64.77 143.51))
+    (stroke (width 0) (type default))
+    (uuid 2d69791a-58f7-4e3a-a541-1864f84695ea)
+  )
+  (wire (pts (xy 127 143.51) (xy 127 118.11))
+    (stroke (width 0) (type default))
+    (uuid 4dd52b79-f1da-4062-8412-fdb1ca1f8f52)
+  )
+  (wire (pts (xy 88.9 52.07) (xy 88.9 67.31))
+    (stroke (width 0) (type default))
+    (uuid 5b4e755c-cc61-416a-8a12-ac3ea850f0ba)
+  )
+  (wire (pts (xy 88.9 67.31) (xy 88.9 92.71))
+    (stroke (width 0) (type default))
+    (uuid 63dc55ab-6349-4f57-bfbe-36c730bd8670)
+  )
+  (wire (pts (xy 127 52.07) (xy 127 67.31))
+    (stroke (width 0) (type default))
+    (uuid 6b689bfd-c7ae-4cbc-9e31-8e7f42641021)
+  )
+  (wire (pts (xy 63.5 118.11) (xy 64.77 118.11))
+    (stroke (width 0) (type default))
+    (uuid 7ed94bef-2a81-4b00-8ca1-ecda0382b679)
+  )
+  (wire (pts (xy 101.6 118.11) (xy 102.87 118.11))
+    (stroke (width 0) (type default))
+    (uuid 832f4e65-bd80-4bc2-9a98-581b2df4b19f)
+  )
+  (wire (pts (xy 101.6 67.31) (xy 102.87 67.31))
+    (stroke (width 0) (type default))
+    (uuid 96a1b94e-7570-4555-af8f-3e297f292e27)
+  )
+  (wire (pts (xy 88.9 92.71) (xy 88.9 118.11))
+    (stroke (width 0) (type default))
+    (uuid a02214a3-8ddd-4df2-94c6-5f435ff0ac3e)
+  )
+  (wire (pts (xy 87.63 143.51) (xy 88.9 143.51))
+    (stroke (width 0) (type default))
+    (uuid bc96a733-32ae-4ccf-9a73-8b12b0d99098)
+  )
+  (wire (pts (xy 63.5 92.71) (xy 64.77 92.71))
+    (stroke (width 0) (type default))
+    (uuid bf1efade-ab85-4528-aaf8-cb549605b7aa)
+  )
+  (wire (pts (xy 127 67.31) (xy 127 92.71))
+    (stroke (width 0) (type default))
+    (uuid c3220040-460b-451e-b7fc-a91119dfbff2)
+  )
+  (wire (pts (xy 88.9 143.51) (xy 88.9 152.4))
+    (stroke (width 0) (type default))
+    (uuid c420bd79-9c61-4e49-a86c-ecf125ad9b6f)
+  )
+  (wire (pts (xy 87.63 92.71) (xy 88.9 92.71))
+    (stroke (width 0) (type default))
+    (uuid cd90bdcb-4a2f-4b42-9f70-4c1aa8ec415d)
+  )
+  (wire (pts (xy 125.73 92.71) (xy 127 92.71))
+    (stroke (width 0) (type default))
+    (uuid d16f8056-2faf-4339-8ef8-82c3a7edbcf2)
+  )
+  (wire (pts (xy 127 92.71) (xy 127 118.11))
+    (stroke (width 0) (type default))
+    (uuid d543bb28-d5e4-4c87-a1ab-b07c88b4b745)
+  )
+  (wire (pts (xy 125.73 143.51) (xy 127 143.51))
+    (stroke (width 0) (type default))
+    (uuid d9bbefd6-7a06-4fe6-a9c2-7a72092df4d9)
+  )
+  (wire (pts (xy 63.5 67.31) (xy 64.77 67.31))
+    (stroke (width 0) (type default))
+    (uuid e2eee175-50ad-48e7-b5ea-7c5a283ff4e6)
+  )
+  (wire (pts (xy 88.9 118.11) (xy 88.9 143.51))
+    (stroke (width 0) (type default))
+    (uuid eabc4b4e-6fb2-4196-b96c-3189689de834)
+  )
+  (wire (pts (xy 101.6 143.51) (xy 102.87 143.51))
+    (stroke (width 0) (type default))
+    (uuid ee6adccf-c9b0-436a-88be-5d4ab206f1a9)
+  )
+  (wire (pts (xy 125.73 67.31) (xy 127 67.31))
+    (stroke (width 0) (type default))
+    (uuid f9b24c60-dfde-44f7-8413-f8672cdf87c5)
+  )
+
+  (label "COL" (at 127 52.07 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1dbea9f0-0c38-40a0-99eb-c3f74dc6625e)
+  )
+  (label "COL" (at 88.9 152.4 270) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 6a5b55de-97dc-4cc2-9443-378fdb0427d4)
+  )
+
+  (hierarchical_label "RX7" (shape input) (at 101.6 143.51 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 061db132-c70c-4f6b-95a2-374524119c25)
+  )
+  (hierarchical_label "RX0" (shape input) (at 63.5 67.31 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 1ea27614-7631-439c-bd6f-cf9615d865ed)
+  )
+  (hierarchical_label "C0" (shape input) (at 88.9 52.07 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1fbfe4bf-4dd7-4d75-99fa-3a54b3a8f52c)
+  )
+  (hierarchical_label "RX3" (shape input) (at 63.5 143.51 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 4f9397a6-a34b-45e6-9a0f-db71b75fa3c7)
+  )
+  (hierarchical_label "RX6" (shape input) (at 101.6 118.11 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 56ff51b2-4f72-403c-92f4-ffb19c5ff562)
+  )
+  (hierarchical_label "RX2" (shape input) (at 63.5 118.11 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 602e9856-20de-4be3-b603-67945311856b)
+  )
+  (hierarchical_label "RX4" (shape input) (at 101.6 67.31 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 83795462-3b9f-4914-a6d8-ba9c8b7ce597)
+  )
+  (hierarchical_label "RX1" (shape input) (at 63.5 92.71 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid bb94f460-71da-43b7-8882-478c8e0c40d5)
+  )
+  (hierarchical_label "RX5" (shape input) (at 101.6 92.71 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid d3103f1a-9902-445f-8853-3fbfa9cc5bc6)
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 125.73 143.51 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 06c86d19-2c28-425f-a5ec-43e7c7da7fc4)
+    (property "Reference" "TP16" (at 120.65 142.875 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 125.73 146.05 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 125.73 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 125.73 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 45438610-35bb-47c0-8778-08b16f86a2f0))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP16") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP32") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP48") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP64") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP80") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP96") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP112") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP128") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP144") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP160") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP176") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP192") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP208") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP224") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP240") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP256") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 87.63 143.51 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 35666566-38dd-4770-86b1-c3e0b841df1a)
+    (property "Reference" "TP14" (at 82.55 142.875 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 87.63 146.05 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 87.63 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 87.63 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c16263c8-2789-48f2-ba50-e917fd79e897))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP14") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP30") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP46") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP62") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP78") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP94") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP110") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP126") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP142") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP158") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP174") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP190") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP206") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP222") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP238") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP254") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 102.87 143.51 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 398007fd-2d39-4290-8651-39cfe1eb7978)
+    (property "Reference" "TP15" (at 107.95 142.875 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 102.87 146.05 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 102.87 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 102.87 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ec96d71b-a712-4b96-b159-cf81fbfe51da))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP15") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP31") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP47") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP63") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP79") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP95") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP111") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP127") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP143") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP159") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP175") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP191") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP207") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP223") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP239") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP255") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 125.73 92.71 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 4f0ef217-3d36-4359-ac01-78129ece8adb)
+    (property "Reference" "TP8" (at 120.65 92.075 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 125.73 95.25 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 125.73 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 125.73 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f1ee5b23-ca0e-4cb1-a10d-1c346450009c))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP8") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP24") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP40") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP56") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP72") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP88") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP104") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP120") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP136") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP152") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP168") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP184") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP200") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP216") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP232") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP248") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 125.73 67.31 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 64d00288-7792-41d6-a962-e6f2219a02d5)
+    (property "Reference" "TP4" (at 120.65 66.675 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 125.73 69.85 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 125.73 72.39 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 125.73 72.39 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 763f9346-2c8b-4a9b-b8ff-cf6ec3b63ba8))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP4") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP20") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP36") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP52") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP68") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP84") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP100") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP116") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP132") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP148") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP164") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP180") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP196") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP212") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP228") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP244") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 64.77 118.11 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 6eba2598-aac8-475f-a7d7-820bd429ef37)
+    (property "Reference" "TP9" (at 69.85 117.475 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 64.77 120.65 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 64.77 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 64.77 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 94cc26fb-b0aa-4197-a47d-1d2e9542b35c))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP9") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP25") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP41") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP57") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP73") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP89") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP105") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP121") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP137") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP153") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP169") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP185") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP201") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP217") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP233") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP249") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 102.87 67.31 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 76be4216-22b6-404f-bd3b-5eebf41035e7)
+    (property "Reference" "TP3" (at 107.95 66.675 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 102.87 69.85 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 102.87 72.39 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 102.87 72.39 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dbfb8000-4060-44a6-837b-e88130345755))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP3") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP19") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP35") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP51") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP67") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP83") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP99") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP115") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP131") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP147") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP163") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP179") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP195") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP211") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP227") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP243") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 64.77 143.51 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 7fdd04f1-10f2-4537-95c2-3abaab46a53b)
+    (property "Reference" "TP13" (at 69.85 142.875 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 64.77 146.05 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 64.77 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 64.77 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fbbf8e64-198e-42ae-be36-43f9d7d670c3))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP13") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP29") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP45") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP61") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP77") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP93") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP109") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP125") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP141") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP157") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP173") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP189") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP205") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP221") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP237") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP253") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 64.77 92.71 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 900fba99-09b3-472b-be6c-bf3fc1e32abb)
+    (property "Reference" "TP5" (at 69.85 92.075 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 64.77 95.25 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 64.77 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 64.77 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 06c2629b-d7e1-4b24-9856-4b43c94c79c2))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP5") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP21") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP37") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP53") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP69") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP85") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP101") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP117") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP133") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP149") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP165") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP181") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP197") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP213") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP229") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP245") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 87.63 92.71 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 90e6d87b-7797-4b14-8176-db0ddc788c63)
+    (property "Reference" "TP6" (at 82.55 92.075 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 87.63 95.25 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 87.63 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 87.63 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid df9effc0-7867-4fc3-a912-72a795410cff))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP6") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP22") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP38") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP54") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP70") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP86") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP102") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP118") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP134") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP150") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP166") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP182") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP198") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP214") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP230") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP246") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 87.63 67.31 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid bd0daf02-a1ec-4b88-ad3f-d702308e383a)
+    (property "Reference" "TP2" (at 82.55 66.675 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 87.63 69.85 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 87.63 72.39 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 87.63 72.39 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 37307c6e-5eb7-45b1-8329-43dad3692cfd))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP2") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP18") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP34") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP50") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP66") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP82") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP98") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP114") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP130") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP146") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP162") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP178") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP194") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP210") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP226") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP242") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 125.73 118.11 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid c282268c-dd3f-40a5-b8ce-67192a93ff95)
+    (property "Reference" "TP12" (at 120.65 117.475 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 125.73 120.65 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 125.73 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 125.73 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 80329d5b-5351-4004-b811-4f1b0a65e000))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP12") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP28") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP44") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP60") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP76") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP92") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP108") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP124") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP140") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP156") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP172") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP188") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP204") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP220") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP236") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP252") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 102.87 92.71 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid c958302d-6291-452e-b224-d4953b688a36)
+    (property "Reference" "TP7" (at 107.95 92.075 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 102.87 95.25 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 102.87 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 102.87 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 80f1fcbf-eef6-486f-a98c-58b52d0cef38))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP7") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP23") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP39") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP55") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP71") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP87") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP103") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP119") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP135") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP151") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP167") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP183") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP199") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP215") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP231") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP247") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 102.87 118.11 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid cc26350b-c28c-4e04-99e7-802edff27ae8)
+    (property "Reference" "TP11" (at 107.95 117.475 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 102.87 120.65 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 102.87 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 102.87 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f74bdfdb-f8f7-4564-b81a-04f58b5a35c7))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP11") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP27") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP43") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP59") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP75") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP91") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP107") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP123") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP139") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP155") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP171") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP187") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP203") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP219") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP235") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP251") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 87.63 118.11 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid e9de2cdb-eb66-4d17-af62-a2cb9b5ac388)
+    (property "Reference" "TP10" (at 82.55 117.475 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 87.63 120.65 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 87.63 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 87.63 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid be960b94-1f92-49a0-9fe3-54506f012dea))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP10") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP26") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP42") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP58") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP74") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP90") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP106") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP122") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP138") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP154") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP170") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP186") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP202") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP218") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP234") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP250") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 64.77 67.31 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid ed0d7f92-4849-4fff-97da-84761fec681c)
+    (property "Reference" "TP1" (at 69.85 66.675 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 64.77 69.85 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 64.77 72.39 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 64.77 72.39 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 19d054df-e9bd-4329-a492-ae2e01afdd90))
+    (instances
+      (project "keypad16"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP1") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP17") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP33") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP49") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP65") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP81") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP97") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP113") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/a2aa6f57-5a4c-430e-b39e-fb0a755e06bf"
+          (reference "TP129") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/7e126f10-ed1f-46da-b4c8-af558a94c73a"
+          (reference "TP145") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/05b318ea-7b61-4dc8-bc87-7080519188c5"
+          (reference "TP161") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/6b6c468b-d163-43e7-8ba1-d32895f85ba2"
+          (reference "TP177") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/cb0df993-319e-4368-b535-c414212a6090"
+          (reference "TP193") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/5ceabdb3-ab53-4e03-b254-f884dac942ea"
+          (reference "TP209") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/c98f3693-5fea-441d-9c16-dd0e632428ba"
+          (reference "TP225") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75/becda99c-9677-4264-a3d6-8846c71453d9"
+          (reference "TP241") (unit 1)
+        )
+      )
+    )
+  )
+)
