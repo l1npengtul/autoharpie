@@ -424,7 +424,7 @@
   (symbol (lib_id "power:GND") (at 166.37 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 051aeb85-02ae-4aef-90bc-dd468cf8f2f6)
-    (property "Reference" "#PWR023" (at 166.37 142.24 0)
+    (property "Reference" "#PWR028" (at 166.37 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 166.37 140.97 0)
@@ -440,7 +440,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
       (project "autoharpie"
@@ -559,7 +559,7 @@
   (symbol (lib_id "Device:C") (at 166.37 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 29ee3e0d-a3e0-4868-b6dc-7fb9075a378c)
-    (property "Reference" "C18" (at 170.18 131.445 0)
+    (property "Reference" "C21" (at 170.18 131.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68p" (at 170.18 133.985 0)
@@ -576,7 +576,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "C18") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
       (project "autoharpie"
@@ -593,7 +593,7 @@
   (symbol (lib_id "Device:C") (at 166.37 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2f7d865c-e0e8-45ef-b854-01e48a4ee9b6)
-    (property "Reference" "C12" (at 170.18 55.245 0)
+    (property "Reference" "C15" (at 170.18 55.245 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68p" (at 170.18 57.785 0)
@@ -610,7 +610,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "C12") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
       (project "autoharpie"
@@ -627,7 +627,7 @@
   (symbol (lib_id "Device:C") (at 229.87 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3c2de849-e197-4fa1-a9bf-0a7fecc33dc8)
-    (property "Reference" "C19" (at 233.68 131.445 0)
+    (property "Reference" "C22" (at 233.68 131.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68p" (at 233.68 133.985 0)
@@ -644,7 +644,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "C19") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
       (project "autoharpie"
@@ -661,7 +661,7 @@
   (symbol (lib_id "Device:C") (at 229.87 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4dc77e21-a351-4209-92fb-d1ea4c7ed022)
-    (property "Reference" "C13" (at 233.68 55.245 0)
+    (property "Reference" "C16" (at 233.68 55.245 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68p" (at 233.68 57.785 0)
@@ -678,7 +678,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "C13") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
       (project "autoharpie"
@@ -695,7 +695,7 @@
   (symbol (lib_id "power:GND") (at 166.37 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5f171a19-9f15-43e6-81af-913f09d4a445)
-    (property "Reference" "#PWR017" (at 166.37 66.04 0)
+    (property "Reference" "#PWR022" (at 166.37 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 166.37 64.77 0)
@@ -711,7 +711,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
       (project "autoharpie"
@@ -762,7 +762,7 @@
   (symbol (lib_id "Device:C") (at 166.37 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8099f923-884f-40c9-9778-7fde40864795)
-    (property "Reference" "C14" (at 170.18 80.645 0)
+    (property "Reference" "C17" (at 170.18 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68p" (at 170.18 83.185 0)
@@ -779,7 +779,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "C14") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
       (project "autoharpie"
@@ -830,7 +830,7 @@
   (symbol (lib_id "power:GND") (at 166.37 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8caa33e7-eca9-49fb-96de-44e28af74340)
-    (property "Reference" "#PWR021" (at 166.37 116.84 0)
+    (property "Reference" "#PWR026" (at 166.37 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 166.37 115.57 0)
@@ -846,7 +846,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR026") (unit 1)
         )
       )
       (project "autoharpie"
@@ -931,7 +931,7 @@
   (symbol (lib_id "Device:C") (at 166.37 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ac74e47a-7ef2-4bff-9aca-808013bea2f5)
-    (property "Reference" "C16" (at 170.18 106.045 0)
+    (property "Reference" "C19" (at 170.18 106.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68p" (at 170.18 108.585 0)
@@ -948,7 +948,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "C16") (unit 1)
+          (reference "C19") (unit 1)
         )
       )
       (project "autoharpie"
@@ -965,7 +965,7 @@
   (symbol (lib_id "power:GND") (at 229.87 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c0513d65-e953-4590-af1d-313eaca46a8a)
-    (property "Reference" "#PWR020" (at 229.87 91.44 0)
+    (property "Reference" "#PWR025" (at 229.87 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 90.17 0)
@@ -981,7 +981,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
       (project "autoharpie"
@@ -998,7 +998,7 @@
   (symbol (lib_id "power:GND") (at 229.87 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c3efec3f-8e7a-441d-ba07-1a6901aad1df)
-    (property "Reference" "#PWR018" (at 229.87 66.04 0)
+    (property "Reference" "#PWR023" (at 229.87 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 64.77 0)
@@ -1014,7 +1014,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
       (project "autoharpie"
@@ -1031,7 +1031,7 @@
   (symbol (lib_id "power:GND") (at 166.37 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c93236f4-d661-4476-b458-641446d795da)
-    (property "Reference" "#PWR019" (at 166.37 91.44 0)
+    (property "Reference" "#PWR024" (at 166.37 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 166.37 90.17 0)
@@ -1047,7 +1047,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
       (project "autoharpie"
@@ -1064,7 +1064,7 @@
   (symbol (lib_id "Device:C") (at 229.87 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cec2b88b-1192-4a01-8b7a-9ad5bdb8d675)
-    (property "Reference" "C17" (at 233.68 106.045 0)
+    (property "Reference" "C20" (at 233.68 106.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68p" (at 233.68 108.585 0)
@@ -1081,7 +1081,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "C17") (unit 1)
+          (reference "C20") (unit 1)
         )
       )
       (project "autoharpie"
@@ -1098,7 +1098,7 @@
   (symbol (lib_id "Device:C") (at 229.87 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d14c3167-a2ea-424d-b28d-c512cf0ec7d8)
-    (property "Reference" "C15" (at 233.68 80.645 0)
+    (property "Reference" "C18" (at 233.68 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "68p" (at 233.68 83.185 0)
@@ -1115,7 +1115,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "C15") (unit 1)
+          (reference "C18") (unit 1)
         )
       )
       (project "autoharpie"
@@ -1132,7 +1132,7 @@
   (symbol (lib_id "power:GND") (at 229.87 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e62a92a8-071b-4d40-95f3-273695f5176d)
-    (property "Reference" "#PWR024" (at 229.87 142.24 0)
+    (property "Reference" "#PWR029" (at 229.87 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 140.97 0)
@@ -1148,7 +1148,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
       (project "autoharpie"
@@ -1165,7 +1165,7 @@
   (symbol (lib_id "power:GND") (at 229.87 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f44a62c5-e697-4d65-8857-30a3d6f67ba8)
-    (property "Reference" "#PWR022" (at 229.87 116.84 0)
+    (property "Reference" "#PWR027" (at 229.87 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 115.57 0)
@@ -1181,7 +1181,7 @@
     (instances
       (project "keypad16"
         (path "/106a7ade-5a37-4fff-aead-af161377696c/b6ab176c-102a-4503-aa29-5dc2908546c1"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR027") (unit 1)
         )
       )
       (project "autoharpie"
