@@ -1,0 +1,19 @@
+.09231486921 :1 ;Harting 48 Way 2.54mm Pitch, Type 2C Class C2, 3 Row a/b/c, Right Angle DIN 41612 Connector, Plug, Solder
+"09231486921"
+*STM J
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4 5=A5 6=A6 7=A7 8=A8 9=A9 10=A10 11=A11 12=A12 13=A13 14=A14 15=A15 16=A16 17=B1 18=B2 19=B3 20=B4 21=B5 22=B6 23=B7 24=B8 25=B9 26=B10 27=B11 28=B12 29=B13 30=B14 31=B15 32=B16 33=C1 34=C2 35=C3 36=C4 37=C5 38=C6 39=C7 40=C8 41=C9 42=C10 43=C11 44=C12 45=C13 46=C14 47=C15 48=C16
+*PLB 1="A1" 2="A2" 3="A3" 4="A4" 5="A5" 6="A6" 7="A7" 8="A8" 9="A9" 10="A10" 11="A11" 12="A12" 13="A13" 14="A14" 15="A15" 16="A16" 17="B1" 18="B2" 19="B3" 20="B4" 21="B5" 22="B6" 23="B7" 24="B8" 25="B9" 26="B10" 27="B11" 28="B12" 29="B13" 30="B14" 31="B15" 32="B16" 33="C1" 34="C2" 35="C3" 36="C4" 37="C5" 38="C6" 39="C7" 40="C8" 41="C9" 42="C10" 43="C11" 44="C12" 45="C13" 46="C14" 47="C15" 48="C16"
+*MXP 50
+*DFN 09231486921
+~!Manufacturer_Name (HARTING)
+~!Manufacturer_Part_Number (09231486921)
+~!Mouser Part Number (617-09-23-148-6921)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/HARTING/09231486921?qs=qa49y27LPCHt5s5zGuukhg%3D%3D)
+~!Arrow Part Number (09231486921)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/09231486921/harting?region=nac)
+~!Link Datasheet (https://b2b.harting.com/ebusiness/en_us/DIN-Signal-2C048MS-1C1-2/09231486921)
+~!Height (-)
+~!3D_Model (09231486921)
+"09231486921"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 39.1!U 40.1!U 41.1!U 42.1!U 43.1!U 44.1!U 45.1!U 46.1!U 47.1!U 48.1!U 

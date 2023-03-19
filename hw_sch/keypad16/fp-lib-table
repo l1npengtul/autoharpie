@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_MSP430FR2633IDAR/KiCAD/2023-03-09_01-52-04/footprints.pretty")(options "")(descr ""))
   (lib (name "keypad")(type "KiCad")(uri "${KIPRJMOD}/keypad.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_09231486921/09231486921/KiCad/09231486921.pretty")(options "")(descr ""))
+  (lib (name "09321")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_09231486921/09231486921/KiCad/09231486921.pretty/09321.pretty")(options "")(descr ""))
+  (lib (name "ESC_Pads")(type "KiCad")(uri "${KIPRJMOD}/symbols/ESCPT/ESC_Pads.pretty")(options "")(descr ""))
 )

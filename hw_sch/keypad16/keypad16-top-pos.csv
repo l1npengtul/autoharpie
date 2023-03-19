@@ -1,0 +1,144 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","1u","C_0603_1608Metric",58.000000,-84.300000,180.000000,top
+"C2","0.1u","C_0402_1005Metric",58.600000,-85.500000,180.000000,top
+"C3","68p","C_0402_1005Metric",57.830000,-64.800000,0.000000,top
+"C4","68p","C_0402_1005Metric",57.830000,-54.700000,0.000000,top
+"C5","68p","C_0402_1005Metric",57.830000,-62.200000,0.000000,top
+"C6","68p","C_0402_1005Metric",57.830000,-52.100000,0.000000,top
+"C7","68p","C_0402_1005Metric",57.830000,-59.450000,0.000000,top
+"C8","68p","C_0402_1005Metric",57.830000,-49.700000,0.000000,top
+"C9","68p","C_0402_1005Metric",57.830000,-57.150000,0.000000,top
+"C10","68p","C_0402_1005Metric",57.830000,-47.000000,0.000000,top
+"J1","09231486921","09231486921",38.223000,-79.100000,-90.000000,top
+"J2","Conn_01x08_Pin","PinHeader_1x08_P2.54mm_Vertical",52.000000,-97.990000,180.000000,top
+"J3","Conn_01x08_Pin","PinHeader_1x08_P2.54mm_Vertical",52.000000,-68.910000,180.000000,top
+"J4","Conn_01x04_Pin","PinHeader_1x04_P2.54mm_Vertical",52.050000,-114.780000,180.000000,top
+"TP1","~","Mutual Capicitance Pad",89.450000,-122.300000,180.000000,top
+"TP2","~","Mutual Capicitance Pad",90.750000,-117.300000,180.000000,top
+"TP3","~","Mutual Capicitance Pad",92.000000,-112.300000,180.000000,top
+"TP4","~","Mutual Capicitance Pad",93.250000,-107.300000,180.000000,top
+"TP5","~","Mutual Capicitance Pad",94.500000,-102.300000,180.000000,top
+"TP6","~","Mutual Capicitance Pad",95.750000,-97.350000,180.000000,top
+"TP7","~","Mutual Capicitance Pad",97.000000,-92.350000,180.000000,top
+"TP8","~","Mutual Capicitance Pad",98.250000,-87.300000,180.000000,top
+"TP9","~","Mutual Capicitance Pad",85.400000,-122.300000,180.000000,top
+"TP10","~","Mutual Capicitance Pad",86.700000,-117.300000,180.000000,top
+"TP11","~","Mutual Capicitance Pad",87.950000,-112.300000,180.000000,top
+"TP12","~","Mutual Capicitance Pad",89.200000,-107.300000,180.000000,top
+"TP13","~","Mutual Capicitance Pad",90.450000,-102.300000,180.000000,top
+"TP14","~","Mutual Capicitance Pad",91.700000,-97.350000,180.000000,top
+"TP15","~","Mutual Capicitance Pad",92.950000,-92.350000,180.000000,top
+"TP16","~","Mutual Capicitance Pad",94.200000,-87.300000,180.000000,top
+"TP17","~","Mutual Capicitance Pad",81.350000,-122.300000,180.000000,top
+"TP18","~","Mutual Capicitance Pad",82.650000,-117.300000,180.000000,top
+"TP19","~","Mutual Capicitance Pad",83.900000,-112.300000,180.000000,top
+"TP20","~","Mutual Capicitance Pad",85.150000,-107.300000,180.000000,top
+"TP21","~","Mutual Capicitance Pad",86.400000,-102.300000,180.000000,top
+"TP22","~","Mutual Capicitance Pad",87.650000,-97.350000,180.000000,top
+"TP23","~","Mutual Capicitance Pad",88.900000,-92.350000,180.000000,top
+"TP24","~","Mutual Capicitance Pad",90.150000,-87.300000,180.000000,top
+"TP25","~","Mutual Capicitance Pad",77.300000,-122.300000,180.000000,top
+"TP26","~","Mutual Capicitance Pad",78.600000,-117.300000,180.000000,top
+"TP27","~","Mutual Capicitance Pad",79.850000,-112.300000,180.000000,top
+"TP28","~","Mutual Capicitance Pad",81.100000,-107.300000,180.000000,top
+"TP29","~","Mutual Capicitance Pad",82.350000,-102.300000,180.000000,top
+"TP30","~","Mutual Capicitance Pad",83.600000,-97.350000,180.000000,top
+"TP31","~","Mutual Capicitance Pad",84.850000,-92.350000,180.000000,top
+"TP32","~","Mutual Capicitance Pad",86.100000,-87.300000,180.000000,top
+"TP33","~","Mutual Capicitance Pad",73.250000,-122.300000,180.000000,top
+"TP34","~","Mutual Capicitance Pad",74.550000,-117.300000,180.000000,top
+"TP35","~","Mutual Capicitance Pad",75.800000,-112.300000,180.000000,top
+"TP36","~","Mutual Capicitance Pad",77.050000,-107.300000,180.000000,top
+"TP37","~","Mutual Capicitance Pad",78.300000,-102.300000,180.000000,top
+"TP38","~","Mutual Capicitance Pad",79.550000,-97.350000,180.000000,top
+"TP39","~","Mutual Capicitance Pad",80.800000,-92.350000,180.000000,top
+"TP40","~","Mutual Capicitance Pad",82.050000,-87.300000,180.000000,top
+"TP41","~","Mutual Capicitance Pad",69.200000,-122.300000,180.000000,top
+"TP42","~","Mutual Capicitance Pad",70.500000,-117.300000,180.000000,top
+"TP43","~","Mutual Capicitance Pad",71.750000,-112.300000,180.000000,top
+"TP44","~","Mutual Capicitance Pad",73.000000,-107.300000,180.000000,top
+"TP45","~","Mutual Capicitance Pad",74.250000,-102.300000,180.000000,top
+"TP46","~","Mutual Capicitance Pad",75.500000,-97.350000,180.000000,top
+"TP47","~","Mutual Capicitance Pad",76.750000,-92.350000,180.000000,top
+"TP48","~","Mutual Capicitance Pad",78.000000,-87.300000,180.000000,top
+"TP49","~","Mutual Capicitance Pad",65.150000,-122.300000,180.000000,top
+"TP50","~","Mutual Capicitance Pad",66.450000,-117.300000,180.000000,top
+"TP51","~","Mutual Capicitance Pad",67.700000,-112.300000,180.000000,top
+"TP52","~","Mutual Capicitance Pad",68.950000,-107.300000,180.000000,top
+"TP53","~","Mutual Capicitance Pad",70.200000,-102.300000,180.000000,top
+"TP54","~","Mutual Capicitance Pad",71.450000,-97.350000,180.000000,top
+"TP55","~","Mutual Capicitance Pad",72.700000,-92.350000,180.000000,top
+"TP56","~","Mutual Capicitance Pad",73.950000,-87.300000,180.000000,top
+"TP57","~","Mutual Capicitance Pad",61.100000,-122.300000,180.000000,top
+"TP58","~","Mutual Capicitance Pad",62.400000,-117.300000,180.000000,top
+"TP59","~","Mutual Capicitance Pad",63.650000,-112.300000,180.000000,top
+"TP60","~","Mutual Capicitance Pad",64.900000,-107.300000,180.000000,top
+"TP61","~","Mutual Capicitance Pad",66.150000,-102.300000,180.000000,top
+"TP62","~","Mutual Capicitance Pad",67.400000,-97.350000,180.000000,top
+"TP63","~","Mutual Capicitance Pad",68.650000,-92.350000,180.000000,top
+"TP64","~","Mutual Capicitance Pad",69.900000,-87.300000,180.000000,top
+"TP65","~","Mutual Capicitance Pad",99.500000,-82.244000,180.000000,top
+"TP66","~","Mutual Capicitance Pad",100.750000,-77.244000,180.000000,top
+"TP67","~","Mutual Capicitance Pad",102.000000,-72.244000,180.000000,top
+"TP68","~","Mutual Capicitance Pad",103.500000,-67.244000,180.000000,top
+"TP69","~","Mutual Capicitance Pad",104.750000,-62.244000,180.000000,top
+"TP70","~","Mutual Capicitance Pad",106.000000,-57.244000,180.000000,top
+"TP71","~","Mutual Capicitance Pad",107.250000,-52.300000,180.000000,top
+"TP72","~","Mutual Capicitance Pad",108.500000,-47.300000,180.000000,top
+"TP73","~","Mutual Capicitance Pad",95.450000,-82.244000,180.000000,top
+"TP74","~","Mutual Capicitance Pad",96.700000,-77.244000,180.000000,top
+"TP75","~","Mutual Capicitance Pad",97.950000,-72.244000,180.000000,top
+"TP76","~","Mutual Capicitance Pad",99.450000,-67.244000,180.000000,top
+"TP77","~","Mutual Capicitance Pad",100.700000,-62.244000,180.000000,top
+"TP78","~","Mutual Capicitance Pad",101.950000,-57.244000,180.000000,top
+"TP79","~","Mutual Capicitance Pad",103.200000,-52.300000,180.000000,top
+"TP80","~","Mutual Capicitance Pad",104.450000,-47.300000,180.000000,top
+"TP81","~","Mutual Capicitance Pad",91.400000,-82.244000,180.000000,top
+"TP82","~","Mutual Capicitance Pad",92.650000,-77.244000,180.000000,top
+"TP83","~","Mutual Capicitance Pad",93.900000,-72.244000,180.000000,top
+"TP84","~","Mutual Capicitance Pad",95.400000,-67.244000,180.000000,top
+"TP85","~","Mutual Capicitance Pad",96.650000,-62.244000,180.000000,top
+"TP86","~","Mutual Capicitance Pad",97.900000,-57.244000,180.000000,top
+"TP87","~","Mutual Capicitance Pad",99.150000,-52.300000,180.000000,top
+"TP88","~","Mutual Capicitance Pad",100.400000,-47.300000,180.000000,top
+"TP89","~","Mutual Capicitance Pad",87.350000,-82.244000,180.000000,top
+"TP90","~","Mutual Capicitance Pad",88.600000,-77.244000,180.000000,top
+"TP91","~","Mutual Capicitance Pad",89.850000,-72.244000,180.000000,top
+"TP92","~","Mutual Capicitance Pad",91.350000,-67.244000,180.000000,top
+"TP93","~","Mutual Capicitance Pad",92.600000,-62.244000,180.000000,top
+"TP94","~","Mutual Capicitance Pad",93.850000,-57.244000,180.000000,top
+"TP95","~","Mutual Capicitance Pad",95.100000,-52.300000,180.000000,top
+"TP96","~","Mutual Capicitance Pad",96.350000,-47.300000,180.000000,top
+"TP97","~","Mutual Capicitance Pad",83.300000,-82.244000,180.000000,top
+"TP98","~","Mutual Capicitance Pad",84.550000,-77.244000,180.000000,top
+"TP99","~","Mutual Capicitance Pad",85.800000,-72.244000,180.000000,top
+"TP100","~","Mutual Capicitance Pad",87.300000,-67.244000,180.000000,top
+"TP101","~","Mutual Capicitance Pad",88.550000,-62.244000,180.000000,top
+"TP102","~","Mutual Capicitance Pad",89.800000,-57.244000,180.000000,top
+"TP103","~","Mutual Capicitance Pad",91.050000,-52.300000,180.000000,top
+"TP104","~","Mutual Capicitance Pad",92.300000,-47.300000,180.000000,top
+"TP105","~","Mutual Capicitance Pad",79.250000,-82.244000,180.000000,top
+"TP106","~","Mutual Capicitance Pad",80.500000,-77.244000,180.000000,top
+"TP107","~","Mutual Capicitance Pad",81.750000,-72.244000,180.000000,top
+"TP108","~","Mutual Capicitance Pad",83.250000,-67.244000,180.000000,top
+"TP109","~","Mutual Capicitance Pad",84.500000,-62.244000,180.000000,top
+"TP110","~","Mutual Capicitance Pad",85.750000,-57.244000,180.000000,top
+"TP111","~","Mutual Capicitance Pad",87.000000,-52.300000,180.000000,top
+"TP112","~","Mutual Capicitance Pad",88.250000,-47.300000,180.000000,top
+"TP113","~","Mutual Capicitance Pad",75.200000,-82.244000,180.000000,top
+"TP114","~","Mutual Capicitance Pad",76.450000,-77.244000,180.000000,top
+"TP115","~","Mutual Capicitance Pad",77.700000,-72.244000,180.000000,top
+"TP116","~","Mutual Capicitance Pad",79.200000,-67.244000,180.000000,top
+"TP117","~","Mutual Capicitance Pad",80.450000,-62.244000,180.000000,top
+"TP118","~","Mutual Capicitance Pad",81.700000,-57.244000,180.000000,top
+"TP119","~","Mutual Capicitance Pad",82.950000,-52.300000,180.000000,top
+"TP120","~","Mutual Capicitance Pad",84.200000,-47.300000,180.000000,top
+"TP121","~","Mutual Capicitance Pad",71.150000,-82.244000,180.000000,top
+"TP122","~","Mutual Capicitance Pad",72.400000,-77.244000,180.000000,top
+"TP123","~","Mutual Capicitance Pad",73.650000,-72.244000,180.000000,top
+"TP124","~","Mutual Capicitance Pad",75.150000,-67.244000,180.000000,top
+"TP125","~","Mutual Capicitance Pad",76.400000,-62.244000,180.000000,top
+"TP126","~","Mutual Capicitance Pad",77.650000,-57.244000,180.000000,top
+"TP127","~","Mutual Capicitance Pad",78.900000,-52.300000,180.000000,top
+"TP128","~","Mutual Capicitance Pad",80.150000,-47.300000,180.000000,top
+"U1","TS3L501ERUA","WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm",58.360000,-91.170000,0.000000,top

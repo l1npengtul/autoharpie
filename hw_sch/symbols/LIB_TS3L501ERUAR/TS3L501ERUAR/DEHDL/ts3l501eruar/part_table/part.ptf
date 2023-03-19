@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TS3L501ERUAR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TS3L501ERUAR" (!) = "", "QFN50P350X900X80-43N-D", "Quad Flat No-Lead", "595-TS3L501ERUAR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TS3L501ERUAR?qs=1WmUhT%2FVMIO4%2Flsyz%2FLsJg%3D%3D", "TS3L501ERUAR", "https://www.arrow.com/en/products/ts3l501eruar/texas-instruments?region=nac", "TS3L501ERUAR Texas Instruments, Analogue Switch Octal SPDT, 3  3.6 V, 42-Pin WQFN", "https://www.ti.com/lit/gpn/TS3L501E", "0.8 mm"
+END_PART
+
+END.

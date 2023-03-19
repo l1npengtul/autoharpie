@@ -1,3 +1,6 @@
 [submodule "hw_sch/symbols/teensy_library"]
 	path = hw_sch/symbols/teensy_library
 	url = https://github.com/XenGi/teensy_library.git
+[submodule "hw_sch/symbols/ESCPT"]
+	path = hw_sch/symbols/ESCPT
+	url = https://github.com/hanya/ESCPT.git

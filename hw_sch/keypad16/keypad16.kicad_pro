@@ -481,6 +481,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -501,16 +509,20 @@
       "Bus Switch"
     ],
     [
-      "c7d28992-6cd6-4f17-8b51-ebb619c4cf99",
+      "5100cab0-5a7f-4a66-b576-5f96855b3102",
       "Key Sensor 1"
     ],
     [
-      "014ea271-4ec5-438f-b3ba-a6b47ce9de75",
-      "Key Sensor 2"
+      "dc827c5d-4409-4d35-b6ba-0932617b326c",
+      "Keys"
     ],
     [
-      "b6ab176c-102a-4503-aa29-5dc2908546c1",
+      "71213c69-dc19-4e32-953f-31b15c9318ad",
       "RX Pin Filter"
+    ],
+    [
+      "fb5dbd90-17d5-458e-a341-4870399ec18f",
+      "Key Sensor 2"
     ]
   ],
   "text_variables": {}

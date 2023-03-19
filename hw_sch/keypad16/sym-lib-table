@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "2023-03-09_01-52-04")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_MSP430FR2633IDAR/KiCAD/2023-03-09_01-52-04/2023-03-09_01-52-04.kicad_sym")(options "")(descr ""))
   (lib (name "keypad")(type "KiCad")(uri "${KIPRJMOD}/keypad.kicad_sym")(options "")(descr ""))
+  (lib (name "09231486921")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_09231486921/09231486921/KiCad/09231486921.kicad_sym")(options "")(descr ""))
 )

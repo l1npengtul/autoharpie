@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '09231486921'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "HARTING", "09231486921" (!) = "", "09231486921", "Other", "617-09-23-148-6921", "https://www.mouser.co.uk/ProductDetail/HARTING/09231486921?qs=qa49y27LPCHt5s5zGuukhg%3D%3D", "09231486921", "https://www.arrow.com/en/products/09231486921/harting?region=nac", "Harting 48 Way 2.54mm Pitch, Type 2C Class C2, 3 Row a/b/c, Right Angle DIN 41612 Connector, Plug, Solder", "https://b2b.harting.com/ebusiness/en_us/DIN-Signal-2C048MS-1C1-2/09231486921"
+END_PART
+
+END.

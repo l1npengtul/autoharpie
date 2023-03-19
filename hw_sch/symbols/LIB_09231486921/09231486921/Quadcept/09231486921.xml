@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/229916/1090532/2.50/48/4/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c170_h110" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="43.307086614173">
+    <padshape layer="TOP" shape="round" width="66.929133858267" height="66.929133858267" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="74.803149606298" height="74.803149606298" />
+    <padshape layer="INNER" shape="round" width="66.929133858267" height="66.929133858267" />
+    <padshape layer="BOTTOM" shape="round" width="66.929133858267" height="66.929133858267" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="74.803149606298" height="74.803149606298" />
+  </padstyle>
+  <padstyle name="c429_h290" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="114.17322834646">
+    <padshape layer="TOP" shape="round" width="168.89763779527" height="168.89763779527" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="176.7716535433" height="176.7716535433" />
+    <padshape layer="INNER" shape="round" width="168.89763779527" height="168.89763779527" />
+    <padshape layer="BOTTOM" shape="round" width="168.89763779527" height="168.89763779527" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="176.7716535433" height="176.7716535433" />
+  </padstyle>
+  <footprint name="09231486921" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="A1" style="c170_h110" originx="749.99999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="2" name="A2" style="c170_h110" originx="649.99999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="3" name="A3" style="c170_h110" originx="549.99999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="4" name="A4" style="c170_h110" originx="449.99999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="5" name="A5" style="c170_h110" originx="350" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="6" name="A6" style="c170_h110" originx="250" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="7" name="A7" style="c170_h110" originx="150" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="8" name="A8" style="c170_h110" originx="49.999999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="9" name="A9" style="c170_h110" originx="-49.999999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="10" name="A10" style="c170_h110" originx="-150" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="11" name="A11" style="c170_h110" originx="-250" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="12" name="A12" style="c170_h110" originx="-350" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="13" name="A13" style="c170_h110" originx="-449.99999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="14" name="A14" style="c170_h110" originx="-549.99999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="15" name="A15" style="c170_h110" originx="-649.99999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="16" name="A16" style="c170_h110" originx="-749.99999999999" originy="-18.622047244094" rotation="90" />
+    <pcbpin number="17" name="B1" style="c170_h110" originx="749.99999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="18" name="B2" style="c170_h110" originx="649.99999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="19" name="B3" style="c170_h110" originx="549.99999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="20" name="B4" style="c170_h110" originx="449.99999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="21" name="B5" style="c170_h110" originx="350" originy="81.377952755905" rotation="90" />
+    <pcbpin number="22" name="B6" style="c170_h110" originx="250" originy="81.377952755905" rotation="90" />
+    <pcbpin number="23" name="B7" style="c170_h110" originx="150" originy="81.377952755905" rotation="90" />
+    <pcbpin number="24" name="B8" style="c170_h110" originx="49.999999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="25" name="B9" style="c170_h110" originx="-49.999999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="26" name="B10" style="c170_h110" originx="-150" originy="81.377952755905" rotation="90" />
+    <pcbpin number="27" name="B11" style="c170_h110" originx="-250" originy="81.377952755905" rotation="90" />
+    <pcbpin number="28" name="B12" style="c170_h110" originx="-350" originy="81.377952755905" rotation="90" />
+    <pcbpin number="29" name="B13" style="c170_h110" originx="-449.99999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="30" name="B14" style="c170_h110" originx="-549.99999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="31" name="B15" style="c170_h110" originx="-649.99999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="32" name="B16" style="c170_h110" originx="-749.99999999999" originy="81.377952755905" rotation="90" />
+    <pcbpin number="33" name="C1" style="c170_h110" originx="749.99999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="34" name="C2" style="c170_h110" originx="649.99999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="35" name="C3" style="c170_h110" originx="549.99999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="36" name="C4" style="c170_h110" originx="449.99999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="37" name="C5" style="c170_h110" originx="350" originy="181.3779527559" rotation="90" />
+    <pcbpin number="38" name="C6" style="c170_h110" originx="250" originy="181.3779527559" rotation="90" />
+    <pcbpin number="39" name="C7" style="c170_h110" originx="150" originy="181.3779527559" rotation="90" />
+    <pcbpin number="40" name="C8" style="c170_h110" originx="49.999999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="41" name="C9" style="c170_h110" originx="-49.999999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="42" name="C10" style="c170_h110" originx="-150" originy="181.3779527559" rotation="90" />
+    <pcbpin number="43" name="C11" style="c170_h110" originx="-250" originy="181.3779527559" rotation="90" />
+    <pcbpin number="44" name="C12" style="c170_h110" originx="-350" originy="181.3779527559" rotation="90" />
+    <pcbpin number="45" name="C13" style="c170_h110" originx="-449.99999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="46" name="C14" style="c170_h110" originx="-549.99999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="47" name="C15" style="c170_h110" originx="-649.99999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="48" name="C16" style="c170_h110" originx="-749.99999999999" originy="181.3779527559" rotation="90" />
+    <pcbpin number="49" name="MH1" style="c429_h290" originx="-949.99999999999" originy="-118.62204724409" rotation="90" />
+    <pcbpin number="50" name="MH2" style="c429_h290" originx="949.99999999999" originy="-118.62204724409" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-1062.9921259842" originy="0" endx="1062.9921259842" endy="0" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="1062.9921259842" originy="0" endx="1062.9921259842" endy="-497.63779527558" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="1062.9921259842" originy="-497.63779527558" endx="-1062.9921259842" endy="-497.63779527558" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-1062.9921259842" originy="-497.63779527558" endx="-1062.9921259842" endy="0" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-1062.9921259842" originy="0" endx="-1062.9921259842" endy="-497.63779527558" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-1062.9921259842" originy="-497.63779527558" endx="1062.9921259842" endy="-497.63779527558" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="1062.9921259842" originy="-497.63779527558" endx="1062.9921259842" endy="0" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="1062.9921259842" originy="0" endx="800.59055118109" endy="0" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-1062.9921259842" originy="0" endx="-800.59055118109" endy="0" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="749.48818897637" originy="-541.22047244094" startangle="180" sweepangle="180" radius="5.0787401574802" width="19.685039370078" />
+    <arc layer="TOP_SILKSCREEN" originx="749.48818897637" originy="-541.22047244094" startangle="180" sweepangle="-180" radius="5.0787401574802" width="19.685039370078" />
+  </footprint>
+  <symbol name="09231486921" originx="0" originy="0">
+    <line originx="200" originy="100" endx="800" endy="100" width="0" />
+    <line originx="800" originy="-2400" endx="800" endy="100" width="0" />
+    <line originx="800" originy="-2400" endx="200" endy="-2400" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-2400" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="-200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A3" />
+      <text name="pindes" originx="140" originy="-180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A3" />
+    </sympin>
+    <sympin number="4" originx="200" originy="-300" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-300" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A4" />
+      <text name="pindes" originx="140" originy="-280" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A4" />
+    </sympin>
+    <sympin number="5" originx="200" originy="-400" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-400" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A5" />
+      <text name="pindes" originx="140" originy="-380" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A5" />
+    </sympin>
+    <sympin number="6" originx="200" originy="-500" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-500" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A6" />
+      <text name="pindes" originx="140" originy="-480" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A6" />
+    </sympin>
+    <sympin number="7" originx="200" originy="-600" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-600" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A7" />
+      <text name="pindes" originx="140" originy="-580" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A7" />
+    </sympin>
+    <sympin number="8" originx="200" originy="-700" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-700" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A8" />
+      <text name="pindes" originx="140" originy="-680" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A8" />
+    </sympin>
+    <sympin number="9" originx="200" originy="-800" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-800" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A9" />
+      <text name="pindes" originx="140" originy="-780" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A9" />
+    </sympin>
+    <sympin number="10" originx="200" originy="-900" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-900" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A10" />
+      <text name="pindes" originx="140" originy="-880" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A10" />
+    </sympin>
+    <sympin number="11" originx="200" originy="-1000" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1000" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A11" />
+      <text name="pindes" originx="140" originy="-980" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A11" />
+    </sympin>
+    <sympin number="12" originx="200" originy="-1100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A12" />
+      <text name="pindes" originx="140" originy="-1080" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A12" />
+    </sympin>
+    <sympin number="13" originx="200" originy="-1200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A13" />
+      <text name="pindes" originx="140" originy="-1180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A13" />
+    </sympin>
+    <sympin number="14" originx="200" originy="-1300" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1300" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A14" />
+      <text name="pindes" originx="140" originy="-1280" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A14" />
+    </sympin>
+    <sympin number="15" originx="200" originy="-1400" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1400" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A15" />
+      <text name="pindes" originx="140" originy="-1380" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A15" />
+    </sympin>
+    <sympin number="16" originx="200" originy="-1500" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1500" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A16" />
+      <text name="pindes" originx="140" originy="-1480" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A16" />
+    </sympin>
+    <sympin number="17" originx="200" originy="-1600" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1600" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="B1" />
+      <text name="pindes" originx="140" originy="-1580" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="B1" />
+    </sympin>
+    <sympin number="18" originx="200" originy="-1700" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1700" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="B2" />
+      <text name="pindes" originx="140" originy="-1680" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="B2" />
+    </sympin>
+    <sympin number="19" originx="200" originy="-1800" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1800" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="B3" />
+      <text name="pindes" originx="140" originy="-1780" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="B3" />
+    </sympin>
+    <sympin number="20" originx="200" originy="-1900" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-1900" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="B4" />
+      <text name="pindes" originx="140" originy="-1880" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="B4" />
+    </sympin>
+    <sympin number="21" originx="200" originy="-2000" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-2000" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="B5" />
+      <text name="pindes" originx="140" originy="-1980" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="B5" />
+    </sympin>
+    <sympin number="22" originx="200" originy="-2100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-2100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="B6" />
+      <text name="pindes" originx="140" originy="-2080" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="B6" />
+    </sympin>
+    <sympin number="23" originx="200" originy="-2200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-2200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="B7" />
+      <text name="pindes" originx="140" originy="-2180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="B7" />
+    </sympin>
+    <sympin number="24" originx="200" originy="-2300" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-2300" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="B8" />
+      <text name="pindes" originx="140" originy="-2280" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="B8" />
+    </sympin>
+    <sympin number="25" originx="800" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="0" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B9" />
+      <text name="pindes" originx="860" originy="20" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B9" />
+    </sympin>
+    <sympin number="26" originx="800" originy="-100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B10" />
+      <text name="pindes" originx="860" originy="-80" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B10" />
+    </sympin>
+    <sympin number="27" originx="800" originy="-200" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-200" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B11" />
+      <text name="pindes" originx="860" originy="-180" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B11" />
+    </sympin>
+    <sympin number="28" originx="800" originy="-300" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-300" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B12" />
+      <text name="pindes" originx="860" originy="-280" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B12" />
+    </sympin>
+    <sympin number="29" originx="800" originy="-400" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-400" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B13" />
+      <text name="pindes" originx="860" originy="-380" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B13" />
+    </sympin>
+    <sympin number="30" originx="800" originy="-500" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-500" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B14" />
+      <text name="pindes" originx="860" originy="-480" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B14" />
+    </sympin>
+    <sympin number="31" originx="800" originy="-600" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-600" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B15" />
+      <text name="pindes" originx="860" originy="-580" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B15" />
+    </sympin>
+    <sympin number="32" originx="800" originy="-700" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-700" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B16" />
+      <text name="pindes" originx="860" originy="-680" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B16" />
+    </sympin>
+    <sympin number="33" originx="800" originy="-800" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-800" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C1" />
+      <text name="pindes" originx="860" originy="-780" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C1" />
+    </sympin>
+    <sympin number="34" originx="800" originy="-900" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-900" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C2" />
+      <text name="pindes" originx="860" originy="-880" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C2" />
+    </sympin>
+    <sympin number="35" originx="800" originy="-1000" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1000" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C3" />
+      <text name="pindes" originx="860" originy="-980" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C3" />
+    </sympin>
+    <sympin number="36" originx="800" originy="-1100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C4" />
+      <text name="pindes" originx="860" originy="-1080" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C4" />
+    </sympin>
+    <sympin number="37" originx="800" originy="-1200" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1200" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C5" />
+      <text name="pindes" originx="860" originy="-1180" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C5" />
+    </sympin>
+    <sympin number="38" originx="800" originy="-1300" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1300" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C6" />
+      <text name="pindes" originx="860" originy="-1280" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C6" />
+    </sympin>
+    <sympin number="39" originx="800" originy="-1400" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1400" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C7" />
+      <text name="pindes" originx="860" originy="-1380" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C7" />
+    </sympin>
+    <sympin number="40" originx="800" originy="-1500" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1500" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C8" />
+      <text name="pindes" originx="860" originy="-1480" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C8" />
+    </sympin>
+    <sympin number="41" originx="800" originy="-1600" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1600" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C9" />
+      <text name="pindes" originx="860" originy="-1580" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C9" />
+    </sympin>
+    <sympin number="42" originx="800" originy="-1700" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1700" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C10" />
+      <text name="pindes" originx="860" originy="-1680" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C10" />
+    </sympin>
+    <sympin number="43" originx="800" originy="-1800" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1800" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C11" />
+      <text name="pindes" originx="860" originy="-1780" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C11" />
+    </sympin>
+    <sympin number="44" originx="800" originy="-1900" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-1900" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C12" />
+      <text name="pindes" originx="860" originy="-1880" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C12" />
+    </sympin>
+    <sympin number="45" originx="800" originy="-2000" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-2000" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C13" />
+      <text name="pindes" originx="860" originy="-1980" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C13" />
+    </sympin>
+    <sympin number="46" originx="800" originy="-2100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-2100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C14" />
+      <text name="pindes" originx="860" originy="-2080" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C14" />
+    </sympin>
+    <sympin number="47" originx="800" originy="-2200" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-2200" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C15" />
+      <text name="pindes" originx="860" originy="-2180" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C15" />
+    </sympin>
+    <sympin number="48" originx="800" originy="-2300" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-2300" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="C16" />
+      <text name="pindes" originx="860" originy="-2280" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="C16" />
+    </sympin>
+  </symbol>
+  <component name="09231486921" designatorprefix="J" height="0" footprint="09231486921">
+    <comppin designator="A1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A1" />
+    <comppin designator="A2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A2" />
+    <comppin designator="A3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A3" />
+    <comppin designator="A4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A4" />
+    <comppin designator="A5" sympin="5" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A5" />
+    <comppin designator="A6" sympin="6" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A6" />
+    <comppin designator="A7" sympin="7" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A7" />
+    <comppin designator="A8" sympin="8" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A8" />
+    <comppin designator="A9" sympin="9" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A9" />
+    <comppin designator="A10" sympin="10" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A10" />
+    <comppin designator="A11" sympin="11" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A11" />
+    <comppin designator="A12" sympin="12" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A12" />
+    <comppin designator="A13" sympin="13" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A13" />
+    <comppin designator="A14" sympin="14" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A14" />
+    <comppin designator="A15" sympin="15" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A15" />
+    <comppin designator="A16" sympin="16" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A16" />
+    <comppin designator="B1" sympin="17" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B1" />
+    <comppin designator="B2" sympin="18" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B2" />
+    <comppin designator="B3" sympin="19" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B3" />
+    <comppin designator="B4" sympin="20" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B4" />
+    <comppin designator="B5" sympin="21" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B5" />
+    <comppin designator="B6" sympin="22" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B6" />
+    <comppin designator="B7" sympin="23" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B7" />
+    <comppin designator="B8" sympin="24" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B8" />
+    <comppin designator="B9" sympin="25" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B9" />
+    <comppin designator="B10" sympin="26" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B10" />
+    <comppin designator="B11" sympin="27" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B11" />
+    <comppin designator="B12" sympin="28" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B12" />
+    <comppin designator="B13" sympin="29" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B13" />
+    <comppin designator="B14" sympin="30" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B14" />
+    <comppin designator="B15" sympin="31" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B15" />
+    <comppin designator="B16" sympin="32" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B16" />
+    <comppin designator="C1" sympin="33" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C1" />
+    <comppin designator="C2" sympin="34" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C2" />
+    <comppin designator="C3" sympin="35" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C3" />
+    <comppin designator="C4" sympin="36" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C4" />
+    <comppin designator="C5" sympin="37" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C5" />
+    <comppin designator="C6" sympin="38" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C6" />
+    <comppin designator="C7" sympin="39" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C7" />
+    <comppin designator="C8" sympin="40" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C8" />
+    <comppin designator="C9" sympin="41" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C9" />
+    <comppin designator="C10" sympin="42" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C10" />
+    <comppin designator="C11" sympin="43" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C11" />
+    <comppin designator="C12" sympin="44" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C12" />
+    <comppin designator="C13" sympin="45" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C13" />
+    <comppin designator="C14" sympin="46" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C14" />
+    <comppin designator="C15" sympin="47" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C15" />
+    <comppin designator="C16" sympin="48" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="C16" />
+    <attached_symbol gate="1" name="09231486921" />
+    <pinmap designator="A1" footprintpin="1" />
+    <pinmap designator="A2" footprintpin="2" />
+    <pinmap designator="A3" footprintpin="3" />
+    <pinmap designator="A4" footprintpin="4" />
+    <pinmap designator="A5" footprintpin="5" />
+    <pinmap designator="A6" footprintpin="6" />
+    <pinmap designator="A7" footprintpin="7" />
+    <pinmap designator="A8" footprintpin="8" />
+    <pinmap designator="A9" footprintpin="9" />
+    <pinmap designator="A10" footprintpin="10" />
+    <pinmap designator="A11" footprintpin="11" />
+    <pinmap designator="A12" footprintpin="12" />
+    <pinmap designator="A13" footprintpin="13" />
+    <pinmap designator="A14" footprintpin="14" />
+    <pinmap designator="A15" footprintpin="15" />
+    <pinmap designator="A16" footprintpin="16" />
+    <pinmap designator="B1" footprintpin="17" />
+    <pinmap designator="B2" footprintpin="18" />
+    <pinmap designator="B3" footprintpin="19" />
+    <pinmap designator="B4" footprintpin="20" />
+    <pinmap designator="B5" footprintpin="21" />
+    <pinmap designator="B6" footprintpin="22" />
+    <pinmap designator="B7" footprintpin="23" />
+    <pinmap designator="B8" footprintpin="24" />
+    <pinmap designator="B9" footprintpin="25" />
+    <pinmap designator="B10" footprintpin="26" />
+    <pinmap designator="B11" footprintpin="27" />
+    <pinmap designator="B12" footprintpin="28" />
+    <pinmap designator="B13" footprintpin="29" />
+    <pinmap designator="B14" footprintpin="30" />
+    <pinmap designator="B15" footprintpin="31" />
+    <pinmap designator="B16" footprintpin="32" />
+    <pinmap designator="C1" footprintpin="33" />
+    <pinmap designator="C2" footprintpin="34" />
+    <pinmap designator="C3" footprintpin="35" />
+    <pinmap designator="C4" footprintpin="36" />
+    <pinmap designator="C5" footprintpin="37" />
+    <pinmap designator="C6" footprintpin="38" />
+    <pinmap designator="C7" footprintpin="39" />
+    <pinmap designator="C8" footprintpin="40" />
+    <pinmap designator="C9" footprintpin="41" />
+    <pinmap designator="C10" footprintpin="42" />
+    <pinmap designator="C11" footprintpin="43" />
+    <pinmap designator="C12" footprintpin="44" />
+    <pinmap designator="C13" footprintpin="45" />
+    <pinmap designator="C14" footprintpin="46" />
+    <pinmap designator="C15" footprintpin="47" />
+    <pinmap designator="C16" footprintpin="48" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://b2b.harting.com/ebusiness/en_us/DIN-Signal-2C048MS-1C1-2/09231486921" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Harting 48 Way 2.54mm Pitch, Type 2C Class C2, 3 Row a/b/c, Right Angle DIN 41612 Connector, Plug, Solder" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="HARTING" />
+    <text name="Manufacturer_Part_Number" originx="850" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="09231486921" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="617-09-23-148-6921" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/HARTING/09231486921?qs=qa49y27LPCHt5s5zGuukhg%3D%3D" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="09231486921" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.arrow.com/en/products/09231486921/harting?region=nac" />
+  </component>
+</quadcept_library>

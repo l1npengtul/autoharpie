@@ -392,30 +392,6 @@
     (stroke (width 0) (type default))
     (uuid 3beabfc3-6109-4d8f-88b6-8c7926626d0e)
   )
-  (bus_entry (at 123.19 180.34) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid 4362da50-1d5e-4b71-a0ef-e4b370cfc601)
-  )
-  (bus_entry (at 123.19 172.72) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid 4740ddb2-0ce4-4667-af0a-0a8be55bbc4c)
-  )
-  (bus_entry (at 123.19 182.88) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid 4a9d9c3a-ecb1-403d-945c-4c436604d035)
-  )
-  (bus_entry (at 123.19 185.42) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid 55f45b66-dba3-45aa-9db0-a1976a418039)
-  )
-  (bus_entry (at 123.19 175.26) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid 7742af2d-460e-4520-a324-a51bbd235672)
-  )
-  (bus_entry (at 123.19 177.8) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid ba78515e-61bd-4e35-a6b4-1988c56c7034)
-  )
   (bus_entry (at 97.79 187.96) (size -2.54 2.54)
     (stroke (width 0) (type default))
     (uuid c910f33a-8902-4621-ae4a-dcc101207993)
@@ -424,23 +400,11 @@
     (stroke (width 0) (type default))
     (uuid d3aba368-17b2-4880-b4e3-2068fab604ec)
   )
-  (bus_entry (at 123.19 187.96) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid dbec2fd5-1512-492d-be1b-add25031156b)
-  )
   (bus_entry (at 97.79 175.26) (size -2.54 2.54)
     (stroke (width 0) (type default))
     (uuid ef9a62c8-6793-4557-8232-cdc39247da29)
   )
-  (bus_entry (at 123.19 170.18) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid fb55265a-1dc6-4d93-8fd8-e17181c4f288)
-  )
 
-  (wire (pts (xy 114.3 172.72) (xy 120.65 172.72))
-    (stroke (width 0) (type default))
-    (uuid 02695e34-d95c-4cc6-8ad9-22be54aa2594)
-  )
   (wire (pts (xy 140.97 109.22) (xy 140.97 114.3))
     (stroke (width 0) (type default))
     (uuid 027a17f6-e3ea-467b-832e-c4d3e99dfd05)
@@ -453,15 +417,6 @@
     (stroke (width 0) (type default))
     (uuid 04f04314-894b-4715-95e0-8cc829ffba91)
   )
-  (wire (pts (xy 114.3 190.5) (xy 120.65 190.5))
-    (stroke (width 0) (type default))
-    (uuid 06b3831d-22db-45eb-af29-3ff65300dbad)
-  )
-  (bus (pts (xy 123.19 170.18) (xy 123.19 172.72))
-    (stroke (width 0) (type default))
-    (uuid 0739cc4e-59d8-4941-b76e-1c8e2f8e55a6)
-  )
-
   (wire (pts (xy 242.57 83.82) (xy 242.57 88.9))
     (stroke (width 0) (type default))
     (uuid 08d7ad15-8a6b-4323-96a7-0c7a14bcade5)
@@ -518,10 +473,6 @@
     (stroke (width 0) (type default))
     (uuid 15a674e2-5e42-4fe5-beea-6b44a5791cff)
   )
-  (wire (pts (xy 114.3 175.26) (xy 120.65 175.26))
-    (stroke (width 0) (type default))
-    (uuid 1698a886-e074-4d06-bf88-402b02123eed)
-  )
   (wire (pts (xy 227.33 58.42) (xy 227.33 71.12))
     (stroke (width 0) (type default))
     (uuid 169eb541-101c-46d4-9903-9df43974d364)
@@ -568,18 +519,9 @@
     (stroke (width 0) (type default))
     (uuid 24bbf0df-0a59-41f9-8336-1f7172c92669)
   )
-  (bus (pts (xy 123.19 180.34) (xy 123.19 182.88))
-    (stroke (width 0) (type default))
-    (uuid 24f6ddec-edf0-4a8e-b3e8-fa2f6ee4fd25)
-  )
-
   (wire (pts (xy 64.77 96.52) (xy 64.77 101.6))
     (stroke (width 0) (type default))
     (uuid 267f6f6c-77c8-42fa-a81b-50082349fe45)
-  )
-  (wire (pts (xy 114.3 182.88) (xy 120.65 182.88))
-    (stroke (width 0) (type default))
-    (uuid 2a391d27-a8b6-41be-b4b7-eb98c32a266a)
   )
   (wire (pts (xy 217.17 109.22) (xy 217.17 114.3))
     (stroke (width 0) (type default))
@@ -609,11 +551,6 @@
     (stroke (width 0) (type default))
     (uuid 2fe452e9-4624-4165-8ced-7e40bfa19056)
   )
-  (bus (pts (xy 123.19 175.26) (xy 123.19 177.8))
-    (stroke (width 0) (type default))
-    (uuid 30c2a96a-0f03-4ecf-b138-1268675c7243)
-  )
-
   (wire (pts (xy 166.37 63.5) (xy 191.77 63.5))
     (stroke (width 0) (type default))
     (uuid 31e0af05-bcbc-422b-aa1f-f60d23015187)
@@ -937,20 +874,10 @@
     (stroke (width 0) (type default))
     (uuid 9236880d-dbb3-4cce-be94-bd53155bf900)
   )
-  (bus (pts (xy 123.19 177.8) (xy 123.19 180.34))
-    (stroke (width 0) (type default))
-    (uuid 933aa28c-6454-49fa-ba81-911767a756a6)
-  )
-
   (wire (pts (xy 115.57 71.12) (xy 115.57 76.2))
     (stroke (width 0) (type default))
     (uuid 9408a45b-0e65-4e10-9dff-2bb7a68ad428)
   )
-  (bus (pts (xy 123.19 167.64) (xy 123.19 170.18))
-    (stroke (width 0) (type default))
-    (uuid 9449857a-947e-47e4-aa1a-e2a5e2ebf939)
-  )
-
   (wire (pts (xy 140.97 127) (xy 166.37 127))
     (stroke (width 0) (type default))
     (uuid 9655e2a1-faa7-4552-93ca-b4ff981dcc5a)
@@ -970,10 +897,6 @@
   (wire (pts (xy 140.97 63.5) (xy 166.37 63.5))
     (stroke (width 0) (type default))
     (uuid 99adc9e7-e6a3-4583-948b-eb6980496b51)
-  )
-  (wire (pts (xy 114.3 187.96) (xy 120.65 187.96))
-    (stroke (width 0) (type default))
-    (uuid 9abfcf1c-cdd4-494f-86c8-e29661c56f61)
   )
   (wire (pts (xy 88.9 177.8) (xy 95.25 177.8))
     (stroke (width 0) (type default))
@@ -1007,11 +930,6 @@
     (stroke (width 0) (type default))
     (uuid a022b223-eb3e-4ce6-b922-2c95b9818bf6)
   )
-  (bus (pts (xy 123.19 172.72) (xy 123.19 175.26))
-    (stroke (width 0) (type default))
-    (uuid a084063a-332f-4094-8330-f3ac4cd57988)
-  )
-
   (wire (pts (xy 64.77 63.5) (xy 90.17 63.5))
     (stroke (width 0) (type default))
     (uuid a0c90777-836e-4ef9-b163-f6266382967e)
@@ -1072,11 +990,6 @@
     (stroke (width 0) (type default))
     (uuid b5aca63a-d592-46e9-b319-12dd8053d459)
   )
-  (bus (pts (xy 123.19 185.42) (xy 123.19 187.96))
-    (stroke (width 0) (type default))
-    (uuid b656af87-39be-4922-ae9d-c7c2ac66d1ff)
-  )
-
   (wire (pts (xy 151.13 96.52) (xy 151.13 109.22))
     (stroke (width 0) (type default))
     (uuid b6f7d847-4be1-4d6f-bcdc-b19d04c4c2e1)
@@ -1276,22 +1189,9 @@
     (stroke (width 0) (type default))
     (uuid ebebcade-e5d4-4394-b297-eb2ef5bb3609)
   )
-  (bus (pts (xy 123.19 182.88) (xy 123.19 185.42))
-    (stroke (width 0) (type default))
-    (uuid ed136fa6-b675-42f8-9708-57bc5fe4091d)
-  )
-
   (wire (pts (xy 74.93 109.22) (xy 74.93 121.92))
     (stroke (width 0) (type default))
     (uuid ee0df2de-9711-453f-9ed1-95d3b477c82f)
-  )
-  (wire (pts (xy 114.3 185.42) (xy 120.65 185.42))
-    (stroke (width 0) (type default))
-    (uuid ee41f27b-eb46-4f1d-b1fd-26a50249b02d)
-  )
-  (wire (pts (xy 114.3 177.8) (xy 120.65 177.8))
-    (stroke (width 0) (type default))
-    (uuid f162a0b9-f031-4067-bccb-0838e899aaad)
   )
   (wire (pts (xy 115.57 63.5) (xy 140.97 63.5))
     (stroke (width 0) (type default))
@@ -1304,10 +1204,6 @@
   (wire (pts (xy 140.97 45.72) (xy 140.97 50.8))
     (stroke (width 0) (type default))
     (uuid f36575b0-564f-441e-8d22-bf512af7b8e2)
-  )
-  (wire (pts (xy 114.3 180.34) (xy 120.65 180.34))
-    (stroke (width 0) (type default))
-    (uuid f3ef6267-d1bc-4f99-add5-2c06dc1d75f5)
   )
   (wire (pts (xy 74.93 38.1) (xy 74.93 45.72))
     (stroke (width 0) (type default))
@@ -1350,67 +1246,35 @@
     (uuid fff1f8c7-f659-4ef5-8a45-7ff3f9cf59a4)
   )
 
-  (label "C1" (at 100.33 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 11b9a19b-68f2-4715-97e6-9b9851025070)
-  )
   (label "RX3" (at 88.9 180.34 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2d9d48b6-5401-4d79-b7d7-77bf49e80916)
   )
-  (label "C2" (at 114.3 177.8 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 3c302ee9-defa-46a1-8c5a-a20cc81d0dfb)
-  )
-  (label "C3" (at 151.13 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 5681fdee-87ae-4543-8a62-2bddec3284e5)
-  )
-  (label "C0" (at 74.93 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6e90ca8e-6fdc-4a75-a820-78e41ff7fa87)
-  )
-  (label "RX5" (at 50.8 114.3 180) (fields_autoplaced)
+  (label "RX5" (at 50.8 76.2 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7294a376-0c51-4cb7-9540-62a1ed034921)
-  )
-  (label "C6" (at 227.33 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 774a0e77-575b-4e1f-9941-90d761ee4992)
   )
   (label "RX0" (at 88.9 172.72 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7dc9d165-9885-4a00-abbb-893990fef835)
   )
-  (label "C5" (at 201.93 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 8745423e-2b85-4f34-a9b0-6fea60534014)
-  )
-  (label "C0" (at 114.3 172.72 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 8fcdd43d-7bf1-4419-a17c-3719f6a03028)
-  )
-  (label "RX0" (at 50.8 50.8 180) (fields_autoplaced)
+  (label "RX0" (at 50.8 139.7 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid a1ccffb3-49b8-4b78-a516-1791ddef73ea)
-  )
-  (label "C6" (at 114.3 187.96 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid a3c526d3-c367-4838-a7b8-f444c131f33f)
   )
   (label "RX2" (at 88.9 177.8 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a47239e6-25a6-43e8-b82a-629a46a9583c)
   )
-  (label "RX6" (at 50.8 127 180) (fields_autoplaced)
+  (label "RX6" (at 50.8 63.5 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid a9bcd90c-9b15-44ac-8719-0db1e7cb7633)
   )
-  (label "RX7" (at 50.8 139.7 180) (fields_autoplaced)
+  (label "RX7" (at 50.8 50.8 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ac33aa0f-06b5-42ed-9f45-18b757347f85)
   )
-  (label "RX4" (at 50.8 101.6 180) (fields_autoplaced)
+  (label "RX4" (at 50.8 88.9 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid adf49f36-3d5e-413a-a79b-967f599a4b67)
   )
@@ -1418,7 +1282,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bbfcf61f-913a-4635-9eca-d7e7045d1d48)
   )
-  (label "RX1" (at 50.8 63.5 180) (fields_autoplaced)
+  (label "RX1" (at 50.8 127 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c2326c54-021c-442b-a171-ed41625a2a59)
   )
@@ -1430,68 +1294,64 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c3ff0a5f-38ab-43f3-b88f-169e7d5580ac)
   )
-  (label "C5" (at 114.3 185.42 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid d89b3407-3258-4c4e-af33-a8a6dc33e43b)
-  )
-  (label "C4" (at 114.3 182.88 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid dbfb20e5-1e60-4ae6-af2f-6feac8c66e50)
-  )
-  (label "C3" (at 114.3 180.34 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid e4e11ad2-6e41-46cd-9075-d6fa640b46ec)
-  )
-  (label "C7" (at 252.73 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid e4ec8787-6c88-4709-97c5-1de37864385d)
-  )
-  (label "C4" (at 176.53 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid e5e59503-deef-415a-b82d-0f523d0004d2)
-  )
-  (label "RX3" (at 50.8 88.9 180) (fields_autoplaced)
+  (label "RX3" (at 50.8 101.6 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid e6b37e72-a89a-42bb-81a5-220c4914c8e2)
-  )
-  (label "C2" (at 125.73 38.1 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid e84647b9-9209-40c3-8afd-296bf85735f3)
-  )
-  (label "C7" (at 114.3 190.5 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid eaaf5fa3-1ddb-4ca9-9a81-d40402a81cb1)
   )
   (label "RX1" (at 88.9 175.26 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f626cc1b-4f55-4770-9db5-6bb786f800fa)
   )
-  (label "C1" (at 114.3 175.26 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f72cb539-dd21-409b-b685-eb79d8149457)
-  )
   (label "RX6" (at 88.9 187.96 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fbafab28-aa99-4da6-a34d-071c67ff849a)
   )
-  (label "RX2" (at 50.8 76.2 180) (fields_autoplaced)
+  (label "RX2" (at 50.8 114.3 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid fdd9212e-5ec6-459a-a4b2-41de99b5de85)
   )
 
+  (hierarchical_label "C5" (shape input) (at 201.93 38.1 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 29f50963-aa5e-4ea6-9fe4-6d2951b0d8f7)
+  )
   (hierarchical_label "RX[0..7]" (shape output) (at 97.79 167.64 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3ca806f4-0bb0-4c29-b013-1a00499a3271)
   )
-  (hierarchical_label "C[0..7]" (shape input) (at 123.19 167.64 0) (fields_autoplaced)
+  (hierarchical_label "C7" (shape input) (at 252.73 38.1 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
-    (uuid bdb48319-4bda-4b0c-a94c-e747521e2bfb)
+    (uuid 7e35f8ab-3f0d-44f2-9747-211228747c00)
+  )
+  (hierarchical_label "C2" (shape input) (at 125.73 38.1 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 88446427-59f0-433f-9cfd-4f4a886de0cf)
+  )
+  (hierarchical_label "C1" (shape input) (at 100.33 38.1 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid af2e3335-6f9f-472e-8154-f50ba3f7cb2c)
+  )
+  (hierarchical_label "C4" (shape input) (at 176.53 38.1 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b7eda75c-2b17-45e2-9a4d-cdc03d80dbf5)
+  )
+  (hierarchical_label "C3" (shape input) (at 151.13 38.1 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid dde43d97-f7ad-4228-8fd9-eba45ee1f9e6)
+  )
+  (hierarchical_label "C0" (shape input) (at 74.93 38.1 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid df925e37-679f-4cdf-8537-6d6c35121943)
+  )
+  (hierarchical_label "C6" (shape input) (at 227.33 38.1 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid f50897e0-7a89-40ec-ada3-a19fad12e77d)
   )
 
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 146.05 134.62 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16735321-963c-4609-a70a-cad4b27718b2)
-    (property "Reference" "TP56" (at 146.05 130.81 0)
+    (property "Reference" "TP124" (at 146.05 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.685 133.985 0)
@@ -1507,11 +1367,11 @@
     (pin "2" (uuid dda12fd4-4526-43dd-bbdf-f2e58c4afb06))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP56") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP124") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP64") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP60") (unit 1)
         )
       )
     )
@@ -1520,7 +1380,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 95.25 134.62 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1746c91f-6ff0-4ad8-917d-94778328d397)
-    (property "Reference" "TP24" (at 95.25 130.81 0)
+    (property "Reference" "TP122" (at 95.25 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 95.885 133.985 0)
@@ -1536,11 +1396,11 @@
     (pin "2" (uuid 4e3d2325-f86e-4f02-8602-57a311fdb982))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP24") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP122") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP32") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP58") (unit 1)
         )
       )
     )
@@ -1549,7 +1409,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 171.45 121.92 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1b10dfce-d72d-45e6-90e3-49574003c29c)
-    (property "Reference" "TP71" (at 171.45 118.11 0)
+    (property "Reference" "TP117" (at 171.45 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 172.085 121.285 0)
@@ -1565,11 +1425,11 @@
     (pin "2" (uuid 78b7b6e2-c2db-48c8-8b2b-90341adb7a84))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP71") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP117") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP79") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP53") (unit 1)
         )
       )
     )
@@ -1578,7 +1438,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 171.45 58.42 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1bc9909b-f2f8-4630-a92d-59bdb832f4e1)
-    (property "Reference" "TP66" (at 171.45 54.61 0)
+    (property "Reference" "TP77" (at 171.45 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 172.085 57.785 0)
@@ -1594,11 +1454,11 @@
     (pin "2" (uuid fbd4884c-f0c1-40a0-9d80-41057f5813a3))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP66") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP77") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP74") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP13") (unit 1)
         )
       )
     )
@@ -1607,7 +1467,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 171.45 134.62 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e9fc271-f1df-42ed-892e-79a06d1f9ba1)
-    (property "Reference" "TP72" (at 171.45 130.81 0)
+    (property "Reference" "TP125" (at 171.45 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 172.085 133.985 0)
@@ -1623,11 +1483,11 @@
     (pin "2" (uuid ad3000e3-eb82-4671-8296-42b02540b3c9))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP72") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP125") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP80") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP61") (unit 1)
         )
       )
     )
@@ -1636,7 +1496,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 69.85 58.42 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21b23fa5-a25f-4196-8b22-7e0c276cfe74)
-    (property "Reference" "TP3" (at 69.85 54.61 0)
+    (property "Reference" "TP73" (at 69.85 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 70.485 57.785 0)
@@ -1652,11 +1512,11 @@
     (pin "2" (uuid 67f7bfd1-4f70-4a85-a42b-cf9edceb2053))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP3") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP73") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP4") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP9") (unit 1)
         )
       )
     )
@@ -1665,7 +1525,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 69.85 109.22 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25af1d9e-9571-4e16-8e95-ae27c5eede6e)
-    (property "Reference" "TP11" (at 69.85 105.41 0)
+    (property "Reference" "TP105" (at 69.85 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 70.485 108.585 0)
@@ -1681,11 +1541,11 @@
     (pin "2" (uuid 0c39930a-3f71-4f71-83e6-375630c88719))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP11") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP105") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP12") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP41") (unit 1)
         )
       )
     )
@@ -1694,7 +1554,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 69.85 134.62 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 270a59d1-3286-4b8e-96f7-a12cee943af0)
-    (property "Reference" "TP15" (at 69.85 130.81 0)
+    (property "Reference" "TP121" (at 69.85 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 70.485 133.985 0)
@@ -1710,11 +1570,11 @@
     (pin "2" (uuid 0e35c78c-91f5-425a-ad07-ce51aed59b95))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP15") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP121") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP16") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP57") (unit 1)
         )
       )
     )
@@ -1723,7 +1583,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 120.65 134.62 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 29890e2f-7a67-46a5-85bb-b33525b66b65)
-    (property "Reference" "TP40" (at 120.65 130.81 0)
+    (property "Reference" "TP123" (at 120.65 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 121.285 133.985 0)
@@ -1739,11 +1599,11 @@
     (pin "2" (uuid 45eb888c-4550-4f4a-a8ce-830199d146b9))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP40") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP123") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP48") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP59") (unit 1)
         )
       )
     )
@@ -1752,7 +1612,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 196.85 45.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d9b9cde-be50-4f8f-836e-d59a5a7b6f95)
-    (property "Reference" "TP81" (at 196.85 41.91 0)
+    (property "Reference" "TP70" (at 196.85 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 197.485 45.085 0)
@@ -1768,11 +1628,11 @@
     (pin "2" (uuid ac9d667b-fd48-4fa6-8222-e35db4df427e))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP81") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP70") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP89") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP6") (unit 1)
         )
       )
     )
@@ -1781,7 +1641,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 247.65 134.62 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2dd81484-c2d4-42a4-917b-4dc3d4b19593)
-    (property "Reference" "TP120" (at 247.65 130.81 0)
+    (property "Reference" "TP128" (at 247.65 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 248.285 133.985 0)
@@ -1797,11 +1657,11 @@
     (pin "2" (uuid d046d5bb-fc33-4f6c-807f-853e79c43e7a))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP120") (unit 1)
-        )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
           (reference "TP128") (unit 1)
+        )
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP64") (unit 1)
         )
       )
     )
@@ -1810,7 +1670,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 146.05 109.22 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 34245864-883f-41fc-983f-b4d823e0afef)
-    (property "Reference" "TP54" (at 146.05 105.41 0)
+    (property "Reference" "TP108" (at 146.05 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.685 108.585 0)
@@ -1826,11 +1686,11 @@
     (pin "2" (uuid 306957d0-1257-48ab-a297-a64d8b5c7893))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP54") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP108") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP62") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP44") (unit 1)
         )
       )
     )
@@ -1839,7 +1699,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 171.45 83.82 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 352e7b71-d015-404c-b6dd-a1e1c3db436f)
-    (property "Reference" "TP68" (at 171.45 80.01 0)
+    (property "Reference" "TP93" (at 171.45 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 172.085 83.185 0)
@@ -1855,11 +1715,11 @@
     (pin "2" (uuid 74681358-1202-45e8-a24b-5f0da11e1e1f))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP68") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP93") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP76") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP29") (unit 1)
         )
       )
     )
@@ -1868,7 +1728,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 196.85 83.82 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 364af3d2-3cb7-4201-968b-b65874458335)
-    (property "Reference" "TP84" (at 196.85 80.01 0)
+    (property "Reference" "TP94" (at 196.85 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 197.485 83.185 0)
@@ -1884,11 +1744,11 @@
     (pin "2" (uuid c5fb050d-9db0-47ee-a6d5-dd56f4aa1e18))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP84") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP94") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP92") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP30") (unit 1)
         )
       )
     )
@@ -1897,7 +1757,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 171.45 45.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 38d42550-29ca-41f7-9a3f-def73cab20ff)
-    (property "Reference" "TP65" (at 171.45 41.91 0)
+    (property "Reference" "TP69" (at 171.45 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 172.085 45.085 0)
@@ -1913,11 +1773,11 @@
     (pin "2" (uuid bad0c93d-2b17-4222-a231-66f93f4fd7a1))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP65") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP69") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP73") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP5") (unit 1)
         )
       )
     )
@@ -1926,7 +1786,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 95.25 83.82 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 390456a3-51df-4062-bdf1-7c7a9a50a5fb)
-    (property "Reference" "TP20" (at 95.25 80.01 0)
+    (property "Reference" "TP90" (at 95.25 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 95.885 83.185 0)
@@ -1942,11 +1802,11 @@
     (pin "2" (uuid c0f6b0f9-7406-4552-a136-051a1aeea834))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP20") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP90") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP28") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP26") (unit 1)
         )
       )
     )
@@ -1955,7 +1815,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 196.85 58.42 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 394e627a-ea0c-497e-8361-9dd67e75924c)
-    (property "Reference" "TP82" (at 196.85 54.61 0)
+    (property "Reference" "TP78" (at 196.85 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 197.485 57.785 0)
@@ -1971,11 +1831,11 @@
     (pin "2" (uuid 0dd5c535-12df-4440-ad21-d78a7724e60e))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP82") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP78") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP90") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP14") (unit 1)
         )
       )
     )
@@ -1984,7 +1844,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 247.65 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 44299c34-03b1-4aca-8e87-20649493561f)
-    (property "Reference" "TP117" (at 247.65 92.71 0)
+    (property "Reference" "TP104" (at 247.65 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 248.285 95.885 0)
@@ -2000,11 +1860,11 @@
     (pin "2" (uuid bd0b0081-4ef1-4b6e-9011-2d6037327062))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP117") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP104") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP125") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP40") (unit 1)
         )
       )
     )
@@ -2013,7 +1873,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 196.85 109.22 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 465c5ecc-2c1d-4a12-971f-da0aff3d3ef2)
-    (property "Reference" "TP86" (at 196.85 105.41 0)
+    (property "Reference" "TP110" (at 196.85 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 197.485 108.585 0)
@@ -2029,11 +1889,11 @@
     (pin "2" (uuid 514c08f7-605c-4a9b-a5f5-d8862c3117e4))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP86") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP110") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP94") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP46") (unit 1)
         )
       )
     )
@@ -2042,7 +1902,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 69.85 83.82 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 486f8d0b-e77e-4205-94d9-608c9ec3d011)
-    (property "Reference" "TP7" (at 69.85 80.01 0)
+    (property "Reference" "TP89" (at 69.85 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 70.485 83.185 0)
@@ -2058,11 +1918,11 @@
     (pin "2" (uuid 702d331a-37d7-4d99-a9de-61f5342fce2f))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP7") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP89") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP8") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP25") (unit 1)
         )
       )
     )
@@ -2071,7 +1931,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 247.65 109.22 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4a64c360-3431-41c8-aef0-62854c315066)
-    (property "Reference" "TP118" (at 247.65 105.41 0)
+    (property "Reference" "TP112" (at 247.65 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 248.285 108.585 0)
@@ -2087,11 +1947,11 @@
     (pin "2" (uuid 217bb85c-74fd-40b5-b75a-daae08445c1b))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP118") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP112") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP126") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP48") (unit 1)
         )
       )
     )
@@ -2100,7 +1960,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 95.25 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 503823f5-554e-4b68-bbff-8ccf6e754948)
-    (property "Reference" "TP21" (at 95.25 92.71 0)
+    (property "Reference" "TP98" (at 95.25 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 95.885 95.885 0)
@@ -2116,11 +1976,11 @@
     (pin "2" (uuid 97b9e77f-dbdf-4d95-9c17-414a067cfc72))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP21") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP98") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP29") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP34") (unit 1)
         )
       )
     )
@@ -2129,7 +1989,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 171.45 109.22 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 548078d1-b48c-40a7-9cb8-e40d2ac38dc8)
-    (property "Reference" "TP70" (at 171.45 105.41 0)
+    (property "Reference" "TP109" (at 171.45 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 172.085 108.585 0)
@@ -2145,11 +2005,11 @@
     (pin "2" (uuid 1718cf6a-c58e-406c-894d-53d8088dde50))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP70") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP109") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP78") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP45") (unit 1)
         )
       )
     )
@@ -2158,7 +2018,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 120.65 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 629d3e08-0803-458c-b972-ba59e44ba979)
-    (property "Reference" "TP37" (at 120.65 92.71 0)
+    (property "Reference" "TP99" (at 120.65 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 121.285 95.885 0)
@@ -2174,11 +2034,11 @@
     (pin "2" (uuid ff5f2602-171f-4e39-ad80-91a89578631d))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP37") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP99") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP45") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP35") (unit 1)
         )
       )
     )
@@ -2187,7 +2047,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 120.65 71.12 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 650748e1-7279-4393-a07d-6877897b5232)
-    (property "Reference" "TP35" (at 120.65 67.31 0)
+    (property "Reference" "TP83" (at 120.65 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 121.285 70.485 0)
@@ -2203,11 +2063,11 @@
     (pin "2" (uuid 07b1460c-f6b7-4cf2-ae83-3ff3d825f52b))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP35") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP83") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP43") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP19") (unit 1)
         )
       )
     )
@@ -2216,7 +2076,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 146.05 58.42 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6997c35d-a946-4649-8e5e-19fca9dc6257)
-    (property "Reference" "TP50" (at 146.05 54.61 0)
+    (property "Reference" "TP76" (at 146.05 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.685 57.785 0)
@@ -2232,11 +2092,11 @@
     (pin "2" (uuid 130ec677-a259-402a-9c26-1f80b22231c4))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP50") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP76") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP58") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP12") (unit 1)
         )
       )
     )
@@ -2245,7 +2105,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 69.85 121.92 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b88c451-e7a3-43dc-9554-ec182ca17890)
-    (property "Reference" "TP13" (at 69.85 118.11 0)
+    (property "Reference" "TP113" (at 69.85 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 70.485 121.285 0)
@@ -2261,11 +2121,11 @@
     (pin "2" (uuid 22f95422-59c2-4bb1-92dc-bfa9f22f245d))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP13") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP113") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP14") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP49") (unit 1)
         )
       )
     )
@@ -2274,7 +2134,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 222.25 134.62 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e89b2cf-1451-4fbd-bb1a-444eef849c93)
-    (property "Reference" "TP104" (at 222.25 130.81 0)
+    (property "Reference" "TP127" (at 222.25 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 222.885 133.985 0)
@@ -2290,11 +2150,11 @@
     (pin "2" (uuid 3beab0aa-4436-4951-b9d6-0fb9308064d6))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP104") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP127") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP112") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP63") (unit 1)
         )
       )
     )
@@ -2303,7 +2163,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 196.85 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77a89097-b27c-41f7-a276-ae4295bf7b16)
-    (property "Reference" "TP85" (at 196.85 92.71 0)
+    (property "Reference" "TP102" (at 196.85 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 197.485 95.885 0)
@@ -2319,11 +2179,11 @@
     (pin "2" (uuid 6ca9f9f0-bcba-4f9d-bce2-adce6c630ffa))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP85") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP102") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP93") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP38") (unit 1)
         )
       )
     )
@@ -2332,7 +2192,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 222.25 83.82 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 78e109cd-3448-401b-b7d5-8ce09874da06)
-    (property "Reference" "TP100" (at 222.25 80.01 0)
+    (property "Reference" "TP95" (at 222.25 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 222.885 83.185 0)
@@ -2348,11 +2208,11 @@
     (pin "2" (uuid d67300d5-1c8b-48f7-bd8f-af3c6d6090ad))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP100") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP95") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP108") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP31") (unit 1)
         )
       )
     )
@@ -2361,7 +2221,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 222.25 121.92 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7a11e7be-411b-49be-b20a-a83acc3e743b)
-    (property "Reference" "TP103" (at 222.25 118.11 0)
+    (property "Reference" "TP119" (at 222.25 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 222.885 121.285 0)
@@ -2377,11 +2237,11 @@
     (pin "2" (uuid 38a31bf5-fde3-4af0-890a-e26d92dc3d2e))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP103") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP119") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP111") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP55") (unit 1)
         )
       )
     )
@@ -2390,7 +2250,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 120.65 58.42 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7a27c523-d0be-424e-a29e-7ad6b87bfff8)
-    (property "Reference" "TP34" (at 120.65 54.61 0)
+    (property "Reference" "TP75" (at 120.65 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 121.285 57.785 0)
@@ -2406,11 +2266,11 @@
     (pin "2" (uuid eb0e4d6a-d8ee-4795-85e0-76a2b4a9d5af))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP34") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP75") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP42") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP11") (unit 1)
         )
       )
     )
@@ -2419,7 +2279,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 120.65 83.82 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7b956ef5-aed4-4395-91fa-0b9ca87d91c8)
-    (property "Reference" "TP36" (at 120.65 80.01 0)
+    (property "Reference" "TP91" (at 120.65 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 121.285 83.185 0)
@@ -2435,11 +2295,11 @@
     (pin "2" (uuid d2fd2d85-7fe0-488a-aacc-17d75e8d72ee))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP36") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP91") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP44") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP27") (unit 1)
         )
       )
     )
@@ -2448,7 +2308,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 171.45 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7b96e9a8-1d94-4803-836a-47ae417b4b5e)
-    (property "Reference" "TP69" (at 171.45 92.71 0)
+    (property "Reference" "TP101" (at 171.45 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 172.085 95.885 0)
@@ -2464,11 +2324,11 @@
     (pin "2" (uuid 4003488a-a310-4a91-98bf-45834cfd5f41))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP69") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP101") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP77") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP37") (unit 1)
         )
       )
     )
@@ -2477,7 +2337,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 222.25 45.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7c63c152-b073-4d9c-b840-bf9cba1b3252)
-    (property "Reference" "TP97" (at 222.25 41.91 0)
+    (property "Reference" "TP71" (at 222.25 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 222.885 45.085 0)
@@ -2493,11 +2353,11 @@
     (pin "2" (uuid 1ff0dd3f-342f-4216-ae56-5b080f55a051))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP97") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP71") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP105") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP7") (unit 1)
         )
       )
     )
@@ -2506,7 +2366,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 222.25 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 87972328-bc98-4047-b32f-0bfd451d9086)
-    (property "Reference" "TP101" (at 222.25 92.71 0)
+    (property "Reference" "TP103" (at 222.25 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 222.885 95.885 0)
@@ -2522,11 +2382,11 @@
     (pin "2" (uuid 49fe97cc-4b10-47ed-a5c4-de173c61d7ef))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP101") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP103") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP109") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP39") (unit 1)
         )
       )
     )
@@ -2535,7 +2395,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 146.05 121.92 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 891166f5-1d7d-4515-beb7-2e6be830c1d8)
-    (property "Reference" "TP55" (at 146.05 118.11 0)
+    (property "Reference" "TP116" (at 146.05 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.685 121.285 0)
@@ -2551,11 +2411,11 @@
     (pin "2" (uuid 3886e80b-7665-4c1a-9794-55516ef352b0))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP55") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP116") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP63") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP52") (unit 1)
         )
       )
     )
@@ -2564,7 +2424,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 171.45 71.12 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8939b07b-7518-41ab-afc9-3b628e751486)
-    (property "Reference" "TP67" (at 171.45 67.31 0)
+    (property "Reference" "TP85" (at 171.45 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 172.085 70.485 0)
@@ -2580,11 +2440,11 @@
     (pin "2" (uuid 2d0c0a32-41bd-463b-b3d5-1caa149d40ed))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP67") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP85") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP75") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP21") (unit 1)
         )
       )
     )
@@ -2593,7 +2453,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 247.65 121.92 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a58ab50-b2f3-4a1a-aeab-9815a03fca18)
-    (property "Reference" "TP119" (at 247.65 118.11 0)
+    (property "Reference" "TP120" (at 247.65 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 248.285 121.285 0)
@@ -2609,11 +2469,11 @@
     (pin "2" (uuid 49f6ddad-d5f7-446b-9da4-d99feb2b7d76))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP119") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP120") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP127") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP56") (unit 1)
         )
       )
     )
@@ -2622,7 +2482,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 69.85 45.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9144a197-a3fd-4902-8ece-0f7aabba6c0b)
-    (property "Reference" "TP1" (at 69.85 41.91 0)
+    (property "Reference" "TP65" (at 69.85 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 70.485 45.085 0)
@@ -2638,11 +2498,11 @@
     (pin "2" (uuid 6efdeb7e-2ac6-45f4-89c2-4fcbe352a023))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP1") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP65") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP2") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP1") (unit 1)
         )
       )
     )
@@ -2651,7 +2511,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 196.85 134.62 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9317f64e-037e-4c2e-9d6e-7f206be1acb1)
-    (property "Reference" "TP88" (at 196.85 130.81 0)
+    (property "Reference" "TP126" (at 196.85 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 197.485 133.985 0)
@@ -2667,11 +2527,11 @@
     (pin "2" (uuid 14967574-1918-4150-a13c-12437b327067))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP88") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP126") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP96") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP62") (unit 1)
         )
       )
     )
@@ -2680,7 +2540,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 222.25 109.22 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9372ba36-11bd-49c9-81fc-3997e6b43ec6)
-    (property "Reference" "TP102" (at 222.25 105.41 0)
+    (property "Reference" "TP111" (at 222.25 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 222.885 108.585 0)
@@ -2696,11 +2556,11 @@
     (pin "2" (uuid 45ca6cee-022e-45fe-9c57-d3e1913771c0))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP102") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP111") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP110") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP47") (unit 1)
         )
       )
     )
@@ -2709,7 +2569,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 247.65 58.42 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9794a423-bab5-41c5-936d-74d3f6eccf15)
-    (property "Reference" "TP114" (at 247.65 54.61 0)
+    (property "Reference" "TP80" (at 247.65 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 248.285 57.785 0)
@@ -2725,11 +2585,11 @@
     (pin "2" (uuid be10d794-a1ad-4e1d-b6ce-8445400c5168))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP114") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP80") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP122") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP16") (unit 1)
         )
       )
     )
@@ -2738,7 +2598,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 69.85 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 97ef6329-be6a-4f34-9952-a51399028427)
-    (property "Reference" "TP9" (at 69.85 92.71 0)
+    (property "Reference" "TP97" (at 69.85 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 70.485 95.885 0)
@@ -2754,11 +2614,11 @@
     (pin "2" (uuid 8b858f9b-a1f5-48a3-a1b0-ac00eb67a573))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP9") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP97") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP10") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP33") (unit 1)
         )
       )
     )
@@ -2767,7 +2627,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 120.65 109.22 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 99a609cb-b784-42d2-b63c-cdd4815d4e63)
-    (property "Reference" "TP38" (at 120.65 105.41 0)
+    (property "Reference" "TP107" (at 120.65 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 121.285 108.585 0)
@@ -2783,11 +2643,11 @@
     (pin "2" (uuid 2a505696-a624-43c8-af41-e6c4ad50aa17))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP38") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP107") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP46") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP43") (unit 1)
         )
       )
     )
@@ -2796,7 +2656,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 247.65 45.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e3d5d11-49ff-4bc5-a2fc-8640c07a55d0)
-    (property "Reference" "TP113" (at 247.65 41.91 0)
+    (property "Reference" "TP72" (at 247.65 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 248.285 45.085 0)
@@ -2812,11 +2672,11 @@
     (pin "2" (uuid 412c7d7f-e045-41ce-b129-bb2fa0812c59))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP113") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP72") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP121") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP8") (unit 1)
         )
       )
     )
@@ -2825,7 +2685,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 120.65 45.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1708bcd-2f39-4114-9253-76d94af7c0df)
-    (property "Reference" "TP33" (at 120.65 41.91 0)
+    (property "Reference" "TP67" (at 120.65 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 121.285 45.085 0)
@@ -2841,11 +2701,11 @@
     (pin "2" (uuid 384e5ce2-82c4-4f5d-94ee-60e1cdf95346))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP33") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP67") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP41") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP3") (unit 1)
         )
       )
     )
@@ -2854,7 +2714,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 95.25 109.22 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1ae6361-0c12-4f79-ad0a-21663b0b8e76)
-    (property "Reference" "TP22" (at 95.25 105.41 0)
+    (property "Reference" "TP106" (at 95.25 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 95.885 108.585 0)
@@ -2870,11 +2730,11 @@
     (pin "2" (uuid ff5e614a-f883-4396-a0eb-458f3aeb07fa))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP22") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP106") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP30") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP42") (unit 1)
         )
       )
     )
@@ -2883,7 +2743,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 146.05 45.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a98adfbc-3562-414b-a97e-5458980857d6)
-    (property "Reference" "TP49" (at 146.05 41.91 0)
+    (property "Reference" "TP68" (at 146.05 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.685 45.085 0)
@@ -2899,11 +2759,11 @@
     (pin "2" (uuid eb531bdc-730b-4bd2-8016-f82bc134055a))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP49") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP68") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP57") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP4") (unit 1)
         )
       )
     )
@@ -2912,7 +2772,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 120.65 121.92 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aaf56327-7dbf-4c96-83fa-2cf919c289e3)
-    (property "Reference" "TP39" (at 120.65 118.11 0)
+    (property "Reference" "TP115" (at 120.65 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 121.285 121.285 0)
@@ -2928,11 +2788,11 @@
     (pin "2" (uuid b88236cd-64da-4a45-ab0d-feaa99de0260))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP39") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP115") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP47") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP51") (unit 1)
         )
       )
     )
@@ -2941,7 +2801,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 146.05 71.12 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ab8ea1e3-9198-466f-9a62-079622419127)
-    (property "Reference" "TP51" (at 146.05 67.31 0)
+    (property "Reference" "TP84" (at 146.05 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.685 70.485 0)
@@ -2957,11 +2817,11 @@
     (pin "2" (uuid 9804f3f8-a718-476f-8d03-df80d3c20204))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP51") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP84") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP59") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP20") (unit 1)
         )
       )
     )
@@ -2970,7 +2830,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 146.05 83.82 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid acd51edc-8856-49c1-b5bf-db2ec798e3d4)
-    (property "Reference" "TP52" (at 146.05 80.01 0)
+    (property "Reference" "TP92" (at 146.05 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.685 83.185 0)
@@ -2986,11 +2846,11 @@
     (pin "2" (uuid 8fa4d3f1-33d1-40ce-bb65-4d978056bdd0))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP52") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP92") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP60") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP28") (unit 1)
         )
       )
     )
@@ -2999,7 +2859,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 247.65 71.12 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ae34da76-5dc1-4cfd-b9ae-87d57ed37216)
-    (property "Reference" "TP115" (at 247.65 67.31 0)
+    (property "Reference" "TP88" (at 247.65 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 248.285 70.485 0)
@@ -3015,11 +2875,11 @@
     (pin "2" (uuid 0b43d6b5-3720-4b6a-8fc8-b0c0c4f9cac5))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP115") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP88") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP123") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP24") (unit 1)
         )
       )
     )
@@ -3028,7 +2888,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 95.25 45.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b24db7d7-1acb-4fd3-ab78-a33482165c9f)
-    (property "Reference" "TP17" (at 95.25 41.91 0)
+    (property "Reference" "TP66" (at 95.25 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 95.885 45.085 0)
@@ -3044,11 +2904,11 @@
     (pin "2" (uuid f3142153-c082-437e-b285-6ec25694e870))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP17") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP66") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP25") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP2") (unit 1)
         )
       )
     )
@@ -3057,7 +2917,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 95.25 121.92 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b742e767-6769-4c5e-8b8a-fa50b64235d8)
-    (property "Reference" "TP23" (at 95.25 118.11 0)
+    (property "Reference" "TP114" (at 95.25 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 95.885 121.285 0)
@@ -3073,11 +2933,11 @@
     (pin "2" (uuid a041d67f-8039-4c42-8791-7ee96d264e99))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP23") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP114") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP31") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP50") (unit 1)
         )
       )
     )
@@ -3086,7 +2946,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 247.65 83.82 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bfb62b7c-dde4-44e5-bae8-4942efe8608e)
-    (property "Reference" "TP116" (at 247.65 80.01 0)
+    (property "Reference" "TP96" (at 247.65 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 248.285 83.185 0)
@@ -3102,11 +2962,11 @@
     (pin "2" (uuid 77eee8fe-1530-42c8-82d8-f97e94c58a60))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP116") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP96") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP124") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP32") (unit 1)
         )
       )
     )
@@ -3115,7 +2975,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 196.85 121.92 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cb1438db-7fa8-4104-9ec9-6a37a811dbfa)
-    (property "Reference" "TP87" (at 196.85 118.11 0)
+    (property "Reference" "TP118" (at 196.85 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 197.485 121.285 0)
@@ -3131,11 +2991,11 @@
     (pin "2" (uuid be15e7e1-fd34-4461-afe4-5b279e0e122b))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP87") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP118") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP95") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP54") (unit 1)
         )
       )
     )
@@ -3144,7 +3004,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 146.05 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd7392f9-f354-4584-9092-b739e2f35edf)
-    (property "Reference" "TP53" (at 146.05 92.71 0)
+    (property "Reference" "TP100" (at 146.05 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.685 95.885 0)
@@ -3160,11 +3020,11 @@
     (pin "2" (uuid 930d6314-c610-496c-86fd-0f752eedc227))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP53") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP100") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP61") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP36") (unit 1)
         )
       )
     )
@@ -3173,7 +3033,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 95.25 71.12 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d121b223-cc1d-4646-98ee-ec4fdd2a1b82)
-    (property "Reference" "TP19" (at 95.25 67.31 0)
+    (property "Reference" "TP82" (at 95.25 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 95.885 70.485 0)
@@ -3189,11 +3049,11 @@
     (pin "2" (uuid 59e6356e-4f8d-44d2-a938-a4be58042870))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP19") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP82") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP27") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP18") (unit 1)
         )
       )
     )
@@ -3202,7 +3062,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 222.25 58.42 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e268a768-44ed-4c89-8831-e354f8db2bfa)
-    (property "Reference" "TP98" (at 222.25 54.61 0)
+    (property "Reference" "TP79" (at 222.25 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 222.885 57.785 0)
@@ -3218,11 +3078,11 @@
     (pin "2" (uuid 5879449b-2094-445c-b78a-1b6001511f48))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP98") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP79") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP106") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP15") (unit 1)
         )
       )
     )
@@ -3231,7 +3091,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 95.25 58.42 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e88feb00-afa3-4c40-8e07-db6c653d5401)
-    (property "Reference" "TP18" (at 95.25 54.61 0)
+    (property "Reference" "TP74" (at 95.25 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 95.885 57.785 0)
@@ -3247,11 +3107,11 @@
     (pin "2" (uuid 758bc653-ac7d-40d3-aaca-a34a3ae2f484))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP18") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP74") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP26") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP10") (unit 1)
         )
       )
     )
@@ -3260,7 +3120,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 196.85 71.12 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f8108993-806d-48d5-b8c1-517b62e19c94)
-    (property "Reference" "TP83" (at 196.85 67.31 0)
+    (property "Reference" "TP86" (at 196.85 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 197.485 70.485 0)
@@ -3276,11 +3136,11 @@
     (pin "2" (uuid 8938cbab-4f38-4861-aefd-2022fa8fc418))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP83") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP86") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP91") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP22") (unit 1)
         )
       )
     )
@@ -3289,7 +3149,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 69.85 71.12 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fa194b8f-b2d5-45ec-b3e0-ee880ed2c044)
-    (property "Reference" "TP5" (at 69.85 67.31 0)
+    (property "Reference" "TP81" (at 69.85 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 70.485 70.485 0)
@@ -3305,11 +3165,11 @@
     (pin "2" (uuid be60e882-4732-488e-ad18-fc9ecf38e1b6))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP5") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP81") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP6") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP17") (unit 1)
         )
       )
     )
@@ -3318,7 +3178,7 @@
   (symbol (lib_id "keypad:Mutual_Touch_Pad") (at 222.25 71.12 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fa4216c5-2908-4fa3-b797-a46625651771)
-    (property "Reference" "TP99" (at 222.25 67.31 0)
+    (property "Reference" "TP87" (at 222.25 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 222.885 70.485 0)
@@ -3334,11 +3194,11 @@
     (pin "2" (uuid 91b2dfcf-c1de-4656-b679-56adfeacacf2))
     (instances
       (project "keypad16"
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/c7d28992-6cd6-4f17-8b51-ebb619c4cf99"
-          (reference "TP99") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/fb5dbd90-17d5-458e-a341-4870399ec18f"
+          (reference "TP87") (unit 1)
         )
-        (path "/106a7ade-5a37-4fff-aead-af161377696c/014ea271-4ec5-438f-b3ba-a6b47ce9de75"
-          (reference "TP107") (unit 1)
+        (path "/106a7ade-5a37-4fff-aead-af161377696c/dc827c5d-4409-4d35-b6ba-0932617b326c/5100cab0-5a7f-4a66-b576-5f96855b3102"
+          (reference "TP23") (unit 1)
         )
       )
     )

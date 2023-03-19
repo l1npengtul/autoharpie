@@ -1,0 +1,5 @@
+#,Reference,Qty,Value,Footprint,LCSC
+1,C1,1,1u,Capacitor_SMD:C_0603_1608Metric,C105174
+2,C2,1,0.1u,Capacitor_SMD:C_0402_1005Metric,C2167491
+3,"C3, C4, C5, C6, C7, C8, C9, C10",8,68p,Capacitor_SMD:C_0402_1005Metric,C107009
+4,U1,1,TS3L501ERUA,Package_DFN_QFN:WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm,C2652454
