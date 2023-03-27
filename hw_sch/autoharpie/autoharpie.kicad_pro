@@ -505,20 +505,12 @@
       "Sequencer LEDs"
     ],
     [
-      "07f48ca9-d07f-4bd5-b125-75c5d3751f6b",
-      "Sequencer Buttons"
-    ],
-    [
       "d1644cf0-bfcc-4091-b11b-bc842600e5bd",
       "Chord LEDs"
     ],
     [
       "5972bd02-620e-4bf6-ac9b-f9615df1e2cc",
       "Audio Interface"
-    ],
-    [
-      "aea2df6f-e8a4-4555-86eb-f5d07f968e05",
-      "Buttons"
     ]
   ],
   "text_variables": {}

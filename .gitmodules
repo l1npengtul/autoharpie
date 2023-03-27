@@ -4,3 +4,6 @@
 [submodule "hw_sch/symbols/ESCPT"]
 	path = hw_sch/symbols/ESCPT
 	url = https://github.com/hanya/ESCPT.git
+[submodule "hw_sch/symbols/eurocad"]
+	path = hw_sch/symbols/eurocad
+	url = https://github.com/nebs/eurocad.git

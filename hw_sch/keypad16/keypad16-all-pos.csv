@@ -1,0 +1,16 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+C1,1u,C_0603_1608Metric,58,-84.3,180,top
+C2,0.1u,C_0402_1005Metric,58.6,-85.5,180,top
+C3,68p,C_0402_1005Metric,57.83,-64.8,0,top
+C4,68p,C_0402_1005Metric,57.83,-54.7,0,top
+C5,68p,C_0402_1005Metric,57.83,-62.2,0,top
+C6,68p,C_0402_1005Metric,57.83,-52.1,0,top
+C7,68p,C_0402_1005Metric,57.83,-59.45,0,top
+C8,68p,C_0402_1005Metric,57.83,-49.7,0,top
+C9,68p,C_0402_1005Metric,57.83,-57.15,0,top
+C10,68p,C_0402_1005Metric,57.83,-47,0,top
+J1,9231486921,9231486921,38.223,-79.1,-90,top
+J2,Conn_01x08_Pin,PinHeader_1x08_P2.54mm_Vertical,52,-97.99,180,top
+J3,Conn_01x08_Pin,PinHeader_1x08_P2.54mm_Vertical,52,-68.91,180,top
+J4,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,52.05,-114.78,180,top
+U1,TS3L501ERUA,WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm,58.36,-91.17,0,top
