@@ -297,7 +297,7 @@
           (reference "R30") (unit 1)
         )
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
-          (reference "R18") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -326,7 +326,7 @@
           (reference "R30") (unit 1)
         )
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
-          (reference "R24") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -355,36 +355,7 @@
           (reference "R30") (unit 1)
         )
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
-          (reference "R23") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 172.72 76.2 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 7e459246-d44e-4dfb-80d3-2007fa43d4cc)
-    (property "Reference" "R30" (at 172.72 71.12 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "470" (at 172.72 73.66 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (at 172.72 77.978 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 172.72 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid fe570c6e-97dd-44ec-a502-0962d2907766))
-    (pin "2" (uuid 9fa99433-bc25-49e1-a03c-ab086f85c038))
-    (instances
-      (project "autoharpie"
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "R30") (unit 1)
-        )
-        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
-          (reference "R22") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -413,7 +384,7 @@
           (reference "R30") (unit 1)
         )
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
-          (reference "R20") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -442,7 +413,36 @@
           (reference "R30") (unit 1)
         )
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
-          (reference "R21") (unit 1)
+          (reference "R10") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R") (at 172.72 76.2 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 979cc13a-03ab-49ca-b65c-6b19fbb3e14d)
+    (property "Reference" "R30" (at 172.72 71.12 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "470" (at 172.72 73.66 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (at 172.72 77.978 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 172.72 76.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fa9bef98-feed-4873-8461-9b8219f7ac12))
+    (pin "2" (uuid 04c83375-1f74-4ca9-a990-3d7b87f626e1))
+    (instances
+      (project "autoharpie"
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
+          (reference "R30") (unit 1)
+        )
+        (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -471,7 +471,7 @@
           (reference "R30") (unit 1)
         )
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
-          (reference "R19") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -500,7 +500,7 @@
           (reference "R30") (unit 1)
         )
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d/8e58d9cb-22a2-41c9-9d51-42e5a798ce4a"
-          (reference "R25") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )

@@ -7,3 +7,6 @@
 [submodule "hw_sch/symbols/eurocad"]
 	path = hw_sch/symbols/eurocad
 	url = https://github.com/nebs/eurocad.git
+[submodule "hw_sch/symbols/Kicad-STM32"]
+	path = hw_sch/symbols/Kicad-STM32
+	url = https://github.com/piit79/Kicad-STM32.git

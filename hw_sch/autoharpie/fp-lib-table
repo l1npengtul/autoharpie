@@ -4,4 +4,8 @@
   (lib (name "footprints2")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SGTL5000XNLA3R2/KiCAD/2023-03-10_05-17-13/footprints.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_RT6150B-33GQW/KiCAD/2023-03-08_23-59-12/footprints.pretty")(options "")(descr ""))
   (lib (name "footprints3")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_MSP430FR2633IDAR/KiCAD/2023-03-09_01-52-04/footprints.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/symbols/Kicad-STM32/Footprints")(options "")(descr ""))
+  (lib (name "footprints4")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_PTPS78550QKVURQ1/KiCAD/2023-03-28_01-23-56/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints5")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_IQS550-BL-QNR/KiCAD/2023-04-03_23-40-49/footprints.pretty")(options "")(descr ""))
+  (lib (name "capsens")(type "KiCad")(uri "${KIPRJMOD}/symbols/capsens.pretty")(options "")(descr ""))
 )
