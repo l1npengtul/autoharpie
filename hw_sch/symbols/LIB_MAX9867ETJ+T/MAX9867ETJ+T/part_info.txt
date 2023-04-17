@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX9867ETJ+T
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2021-04-05 14:28:06
+Downloaded=2023-04-17 13:24:25
+3D=Y

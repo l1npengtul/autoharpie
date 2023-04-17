@@ -8,4 +8,6 @@
   (lib (name "footprints4")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_PTPS78550QKVURQ1/KiCAD/2023-03-28_01-23-56/footprints.pretty")(options "")(descr ""))
   (lib (name "footprints5")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_IQS550-BL-QNR/KiCAD/2023-04-03_23-40-49/footprints.pretty")(options "")(descr ""))
   (lib (name "capsens")(type "KiCad")(uri "${KIPRJMOD}/symbols/capsens.pretty")(options "")(descr ""))
+  (lib (name "MAB5SH")(type "KiCad")(uri "${KIPRJMOD}/symbols/MAB5SH")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_SDS-50J/SDS-50J/KiCad")(options "")(descr ""))
 )

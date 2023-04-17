@@ -512,13 +512,21 @@
     (uuid ebccb7ad-ea59-4b08-b17d-bcc4a065fe0e)
   )
 
+  (no_connect (at 144.78 115.57) (uuid 0bbb0f4c-a69d-4d4a-85fd-5496fb55392d))
   (no_connect (at 59.69 116.84) (uuid 106bb336-91dd-4742-9d13-c2b1c83ca0d6))
   (no_connect (at 59.69 106.68) (uuid 135a8f67-38b5-4f36-a3a6-426027cee19c))
+  (no_connect (at 105.41 104.14) (uuid 34652ed7-8e37-4d71-a21b-685403cccb78))
+  (no_connect (at 105.41 119.38) (uuid 41a42975-32ce-440e-82c2-7efa71dc8d77))
   (no_connect (at 59.69 91.44) (uuid 4d7f4e02-4c21-42f5-bc4a-9716b77781a7))
   (no_connect (at 59.69 96.52) (uuid 5b396a13-5908-4287-b65a-40640510f934))
   (no_connect (at 105.41 101.6) (uuid 638346fc-2f8b-4191-b117-38c208affab0))
+  (no_connect (at 144.78 110.49) (uuid 66507c94-a1be-4a19-88b7-bdc111660b95))
+  (no_connect (at 144.78 107.95) (uuid 6c497585-e9af-4ec3-9ac1-bc5ae05ac977))
   (no_connect (at 105.41 111.76) (uuid 70f071dd-5d95-445b-863d-ee21a13f4f20))
   (no_connect (at 105.41 106.68) (uuid 826e503d-633a-4d00-8564-3a47b95a084a))
+  (no_connect (at 105.41 114.3) (uuid 88fa6a63-c868-4921-a96d-585a70f43521))
+  (no_connect (at 105.41 109.22) (uuid 9e05f742-fc9f-4dc6-a09d-22777403f51d))
+  (no_connect (at 144.78 113.03) (uuid 9fb7981b-337c-4214-a616-e630acce7ca2))
   (no_connect (at 59.69 101.6) (uuid c487178e-bc62-41b7-a760-dfbaf580fc48))
   (no_connect (at 105.41 116.84) (uuid c9b98d7c-25d0-4a4a-a881-501f7d6cc5a8))
   (no_connect (at 59.69 111.76) (uuid da4bd772-9fa6-4fd7-9028-bb76569c7e89))
@@ -744,10 +752,6 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 076c4f13-c383-40f5-94d0-a48f738f21a5)
   )
-  (label "RX8" (at 105.41 109.22 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 100be139-bee5-4090-9428-ee1a1d50ee12)
-  )
   (label "TX14" (at 59.69 58.42 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 125452c5-bd5f-4e4a-8287-6213d12668b5)
@@ -772,10 +776,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2e1581ac-cd0f-4995-bb3a-747f79260708)
   )
-  (label "RX7" (at 105.41 114.3 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2f252a35-7752-4d1d-bf0a-ba7ac8f96c6e)
-  )
   (label "VDDIO" (at 59.69 38.1 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 41a233b0-18b3-49b2-834c-d3d6dd13a16c)
@@ -787,10 +787,6 @@
   (label "TX9" (at 105.41 71.12 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 53c246aa-f4c9-4ba5-bffc-0ef85bf4c443)
-  )
-  (label "RX9" (at 144.78 115.57 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 62a6e145-efae-418f-9a04-06bb93ebdfc1)
   )
   (label "REG" (at 26.67 46.99 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -840,17 +836,9 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8e2e315c-7b27-45f5-a805-6ee227d4cc2b)
   )
-  (label "RX6" (at 105.41 119.38 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 923942e5-8c53-4c29-888d-8bca563a84a5)
-  )
   (label "TX1" (at 105.41 96.52 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 984d6659-23f4-459f-a284-40b80a2be409)
-  )
-  (label "RX7" (at 144.78 110.49 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9cf38bc4-a6f3-4482-8b32-62338082cd32)
   )
   (label "TX5" (at 144.78 67.31 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -875,10 +863,6 @@
   (label "PWR" (at 25.4 38.1 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bf9691c0-0ba8-4ac2-be7f-bba7baa8a907)
-  )
-  (label "RX6" (at 144.78 107.95 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid c0d05569-d231-4702-83a4-be2d463fd952)
   )
   (label "TX0" (at 105.41 99.06 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -964,10 +948,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid eed5b1b4-c8b8-47d9-9b23-3223fb221244)
   )
-  (label "RX9" (at 105.41 104.14 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid ef3124e4-5993-45b9-b9f1-7ad7e59b7062)
-  )
   (label "TX11" (at 144.78 82.55 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f045dcbe-7b43-4275-9e7e-040389cec78a)
@@ -987,10 +967,6 @@
   (label "TX7" (at 144.78 72.39 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f887f67f-ba83-4784-bdf5-789845dc10ca)
-  )
-  (label "RX8" (at 144.78 113.03 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f9f68b8f-a73e-4b89-9585-e584afaff87b)
   )
   (label "SDA" (at 59.69 68.58 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -1021,7 +997,7 @@
   (symbol (lib_id "Device:C") (at 26.67 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 03d6647f-7d29-4bf7-b917-e61d0ec611e1)
-    (property "Reference" "C10" (at 30.48 53.975 0)
+    (property "Reference" "C11" (at 30.48 53.975 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 30.48 56.515 0)
@@ -1038,7 +1014,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "C10") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -1047,7 +1023,7 @@
   (symbol (lib_id "Device:C") (at 36.83 81.28 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08912f04-30a7-4377-98ce-6cf810b2517f)
-    (property "Reference" "C12" (at 36.83 74.93 90)
+    (property "Reference" "C13" (at 36.83 74.93 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.1u" (at 36.83 77.47 90)
@@ -1064,7 +1040,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "C12") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -1073,7 +1049,7 @@
   (symbol (lib_id "power:+3V3") (at 59.69 25.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 131e2dd8-97a9-4650-88b2-13fb6c24353b)
-    (property "Reference" "#PWR017" (at 59.69 29.21 0)
+    (property "Reference" "#PWR050" (at 59.69 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 59.69 21.59 0)
@@ -1089,7 +1065,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR050") (unit 1)
         )
       )
     )
@@ -1098,7 +1074,7 @@
   (symbol (lib_id "power:GND") (at 111.76 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16344cd3-7cac-426c-b8e6-d6c79bb041c5)
-    (property "Reference" "#PWR054" (at 118.11 58.42 0)
+    (property "Reference" "#PWR057" (at 118.11 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 115.57 59.055 90)
@@ -1114,7 +1090,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR054") (unit 1)
+          (reference "#PWR057") (unit 1)
         )
       )
     )
@@ -1123,7 +1099,7 @@
   (symbol (lib_id "power:GND") (at 49.53 129.54 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16e94346-3601-4f4d-b183-93fb165ee0dc)
-    (property "Reference" "#PWR057" (at 55.88 129.54 0)
+    (property "Reference" "#PWR061" (at 55.88 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 53.34 130.175 90)
@@ -1139,7 +1115,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR057") (unit 1)
+          (reference "#PWR061") (unit 1)
         )
       )
     )
@@ -1148,7 +1124,7 @@
   (symbol (lib_id "power:GND") (at 107.95 88.9 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2630827b-2aba-4996-af46-774b35a690f3)
-    (property "Reference" "#PWR0135" (at 114.3 88.9 0)
+    (property "Reference" "#PWR059" (at 114.3 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 111.76 89.535 90)
@@ -1164,7 +1140,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR0135") (unit 1)
+          (reference "#PWR059") (unit 1)
         )
       )
     )
@@ -1173,7 +1149,7 @@
   (symbol (lib_id "Device:C") (at 64.77 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c4d5f13-34dc-455c-85d3-029a055e40de)
-    (property "Reference" "C37" (at 68.58 31.115 0)
+    (property "Reference" "C9" (at 68.58 31.115 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 68.58 33.655 0)
@@ -1190,7 +1166,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "C37") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -1199,7 +1175,7 @@
   (symbol (lib_id "power:GND") (at 26.67 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d6c5fdf-61ce-4efc-898b-933ebc9a5853)
-    (property "Reference" "#PWR052" (at 26.67 64.77 0)
+    (property "Reference" "#PWR055" (at 26.67 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 26.67 63.5 0)
@@ -1215,7 +1191,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -1249,7 +1225,7 @@
   (symbol (lib_id "power:GND") (at 64.77 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 33a4d1a1-ac62-47cb-804c-17209241ab3a)
-    (property "Reference" "#PWR0133" (at 64.77 41.91 0)
+    (property "Reference" "#PWR053" (at 64.77 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 64.77 40.64 0)
@@ -1265,7 +1241,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR0133") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
@@ -1274,7 +1250,7 @@
   (symbol (lib_id "Device:C") (at 77.47 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 46ad6365-3402-4085-8aae-c5026c683bf7)
-    (property "Reference" "C38" (at 81.28 31.115 0)
+    (property "Reference" "C10" (at 81.28 31.115 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 81.28 33.655 0)
@@ -1291,7 +1267,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "C38") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -1300,7 +1276,7 @@
   (symbol (lib_id "power:GND") (at 39.37 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 471baf71-4829-4560-9109-f9ec2ef0f8f7)
-    (property "Reference" "#PWR053" (at 39.37 64.77 0)
+    (property "Reference" "#PWR056" (at 39.37 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 39.37 63.5 0)
@@ -1316,7 +1292,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR056") (unit 1)
         )
       )
     )
@@ -1325,7 +1301,7 @@
   (symbol (lib_id "Device:C") (at 30.48 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48b99d7e-1379-42a1-9bfa-16e27696260c)
-    (property "Reference" "C8" (at 34.29 31.115 0)
+    (property "Reference" "C7" (at 34.29 31.115 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 34.29 33.655 0)
@@ -1342,7 +1318,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "C8") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -1351,7 +1327,7 @@
   (symbol (lib_id "power:GND") (at 53.34 76.2 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5d585bf0-a618-4782-ab56-f8e8d98f8da8)
-    (property "Reference" "#PWR055" (at 46.99 76.2 0)
+    (property "Reference" "#PWR058" (at 46.99 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 49.53 76.835 90)
@@ -1367,7 +1343,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR058") (unit 1)
         )
       )
     )
@@ -1376,7 +1352,7 @@
   (symbol (lib_id "power:+3V3") (at 49.53 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 622186f8-c37b-4201-a367-15d4455db8fc)
-    (property "Reference" "#PWR056" (at 45.72 127 0)
+    (property "Reference" "#PWR060" (at 45.72 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 53.34 127.635 90)
@@ -1392,7 +1368,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR056") (unit 1)
+          (reference "#PWR060") (unit 1)
         )
       )
     )
@@ -1401,7 +1377,7 @@
   (symbol (lib_id "Device:C") (at 39.37 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6dcea94a-3930-4386-9eeb-4fb1a453d8b0)
-    (property "Reference" "C11" (at 43.18 53.975 0)
+    (property "Reference" "C12" (at 43.18 53.975 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 43.18 56.515 0)
@@ -1418,7 +1394,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "C11") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -1427,7 +1403,7 @@
   (symbol (lib_id "power:GND") (at 30.48 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82c13ab6-c784-4b83-8792-be421ff29fb1)
-    (property "Reference" "#PWR050" (at 30.48 41.91 0)
+    (property "Reference" "#PWR051" (at 30.48 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 30.48 40.64 0)
@@ -1443,7 +1419,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR051") (unit 1)
         )
       )
     )
@@ -1452,7 +1428,7 @@
   (symbol (lib_id "2023-04-03_23-40-49:IQS550-BL-QNR") (at 59.69 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a9547d59-5a2b-44dc-bb5a-d693bbad8ddd)
-    (property "Reference" "U6" (at 82.55 49.53 0)
+    (property "Reference" "U7" (at 82.55 49.53 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "IQS550-BL-QNR" (at 82.55 52.07 0)
@@ -1516,7 +1492,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "U6") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -1525,7 +1501,7 @@
   (symbol (lib_id "power:GND") (at 43.18 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bc7a6322-986d-4232-9c52-d5b6e42c7768)
-    (property "Reference" "#PWR051" (at 43.18 41.91 0)
+    (property "Reference" "#PWR052" (at 43.18 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 43.18 40.64 0)
@@ -1541,7 +1517,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR051") (unit 1)
+          (reference "#PWR052") (unit 1)
         )
       )
     )
@@ -1550,7 +1526,7 @@
   (symbol (lib_id "Device:C") (at 43.18 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c06756f0-6ef8-43d1-8a49-0de8d28bbb71)
-    (property "Reference" "C9" (at 46.99 31.115 0)
+    (property "Reference" "C8" (at 46.99 31.115 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 46.99 33.655 0)
@@ -1567,7 +1543,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "C9") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -1576,7 +1552,7 @@
   (symbol (lib_id "power:GND") (at 77.47 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c2d18b0b-131d-4c81-9855-54a99e985177)
-    (property "Reference" "#PWR0134" (at 77.47 41.91 0)
+    (property "Reference" "#PWR054" (at 77.47 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 77.47 40.64 0)
@@ -1592,7 +1568,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/f8ee59e2-6e70-4754-8893-d92df1e40c0d"
-          (reference "#PWR0134") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )

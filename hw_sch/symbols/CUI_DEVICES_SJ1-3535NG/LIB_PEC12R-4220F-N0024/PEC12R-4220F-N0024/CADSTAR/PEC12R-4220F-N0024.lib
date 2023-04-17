@@ -1,0 +1,19 @@
+.PEC12R-4220F-N0024 :1 ;Encoders HORZ 24DET 24PULSE 20mm SHAFT W/O SW
+PEC12R4017FN0024
+*STM U
+*NGS
+*PNM 1=A1 2=B1 3=C1 4=MH1 5=MH2
+*PLB 1="CHANNEL A" 2="CHANNEL B" 3="COM" 4="4" 5="5"
+*MXP 5
+*DFN PEC12R-4220F-N0024
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (PEC12R-4220F-N0024)
+~!Mouser Part Number (652-PEC12R-4220F-N24)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/PEC12R-4220F-N0024?qs=Zq5ylnUbLm5A%252BWQs5Q2ZbQ%3D%3D)
+~!Arrow Part Number (PEC12R-4220F-N0024)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pec12r-4220f-n0024/bourns)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/PEC12R.pdf)
+~!Height (17.5mm)
+~!3D_Model (PEC12R-4220F-N0024)
+PEC12R-4220F-N0024
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

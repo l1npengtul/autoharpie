@@ -16,4 +16,5 @@
   (lib (name "2023-03-28_01-23-56")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_PTPS78550QKVURQ1/KiCAD/2023-03-28_01-23-56/2023-03-28_01-23-56.kicad_sym")(options "")(descr ""))
   (lib (name "2023-04-03_23-40-49")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_IQS550-BL-QNR/KiCAD/2023-04-03_23-40-49/2023-04-03_23-40-49.kicad_sym")(options "")(descr ""))
   (lib (name "captouch")(type "KiCad")(uri "${KIPRJMOD}/symbols/captouch.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX9867ETJ+T")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_MAX9867ETJ+T/MAX9867ETJ+T/KiCad/MAX9867ETJ+T.kicad_sym")(options "")(descr ""))
 )

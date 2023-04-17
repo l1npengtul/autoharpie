@@ -1,0 +1,19 @@
+.SDS-50J :1 ;Circular DIN Connectors
+SDS50J
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=MH1 7=MH2 8=MH3 9=MH4
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="MH1" 7="MH2" 8="MH3" 9="MH4"
+*MXP 9
+*DFN SDS-50J
+~!Manufacturer_Name (CUI Devices)
+~!Manufacturer_Part_Number (SDS-50J)
+~!Mouser Part Number (490-SDS-50J)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Devices/SDS-50J?qs=WyjlAZoYn50GAH9uA%252BxiOw%3D%3D)
+~!Arrow Part Number (SDS-50J)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sds-50j/cui-devices?region=nac)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/670/sds-xxj-1312653.pdf)
+~!Height (21.1mm)
+~!3D_Model (SDS-50J)
+SDS-50J
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

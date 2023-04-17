@@ -448,7 +448,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "autoharpie.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

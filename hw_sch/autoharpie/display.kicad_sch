@@ -525,7 +525,7 @@
   (symbol (lib_id "power:GND") (at 77.47 100.33 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0dea685d-1a3a-4af1-8141-1d883b81936c)
-    (property "Reference" "#PWR045" (at 71.12 100.33 0)
+    (property "Reference" "#PWR047" (at 71.12 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 73.66 100.965 90)
@@ -541,7 +541,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/b98961c6-5a9e-45f8-94a5-02c3a7ae5bfc"
-          (reference "#PWR045") (unit 1)
+          (reference "#PWR047") (unit 1)
         )
       )
     )
@@ -550,7 +550,7 @@
   (symbol (lib_id "power:+3V3") (at 45.72 48.26 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 378c9092-3dcb-4969-9a72-5e0b497141ec)
-    (property "Reference" "#PWR042" (at 41.91 48.26 0)
+    (property "Reference" "#PWR044" (at 41.91 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 49.53 48.895 90)
@@ -566,7 +566,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/b98961c6-5a9e-45f8-94a5-02c3a7ae5bfc"
-          (reference "#PWR042") (unit 1)
+          (reference "#PWR044") (unit 1)
         )
       )
     )
@@ -627,7 +627,7 @@
   (symbol (lib_id "power:+3V3") (at 55.88 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5d65ecc3-674f-4a3e-adf3-1bea282cbb48)
-    (property "Reference" "#PWR043" (at 55.88 80.01 0)
+    (property "Reference" "#PWR045" (at 55.88 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 55.88 72.39 0)
@@ -643,7 +643,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/b98961c6-5a9e-45f8-94a5-02c3a7ae5bfc"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR045") (unit 1)
         )
       )
     )
@@ -652,13 +652,13 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 87.63 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5fda8336-c8e8-489d-b3a5-5450a6552b88)
-    (property "Reference" "SW1" (at 87.63 91.44 0)
+    (property "Reference" "SW2" (at 87.63 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RotaryEncoder_Switch" (at 87.63 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" (at 83.82 96.266 0)
+    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Bourns_Vertical_PEC12R-3xxxF-Sxxxx" (at 83.82 96.266 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 87.63 93.726 0)
@@ -672,7 +672,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/b98961c6-5a9e-45f8-94a5-02c3a7ae5bfc"
-          (reference "SW1") (unit 1)
+          (reference "SW2") (unit 1)
         )
       )
     )
@@ -681,7 +681,7 @@
   (symbol (lib_id "power:+3V3") (at 123.19 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bb3d4ff4-4c11-4f0c-b30b-c06211ee7363)
-    (property "Reference" "#PWR044" (at 123.19 88.9 0)
+    (property "Reference" "#PWR046" (at 123.19 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 123.19 81.28 0)
@@ -697,7 +697,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/b98961c6-5a9e-45f8-94a5-02c3a7ae5bfc"
-          (reference "#PWR044") (unit 1)
+          (reference "#PWR046") (unit 1)
         )
       )
     )
@@ -732,7 +732,7 @@
   (symbol (lib_id "power:GND") (at 45.72 45.72 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec634513-e470-4bf9-932e-4eb17bdfc5fc)
-    (property "Reference" "#PWR041" (at 52.07 45.72 0)
+    (property "Reference" "#PWR043" (at 52.07 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 49.53 46.355 90)
@@ -748,7 +748,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/b98961c6-5a9e-45f8-94a5-02c3a7ae5bfc"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
     )
@@ -785,7 +785,7 @@
   (symbol (lib_id "power:GND") (at 100.33 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f1ecb7c9-03a4-4bf5-9c92-18995d5ba82c)
-    (property "Reference" "#PWR046" (at 106.68 102.87 0)
+    (property "Reference" "#PWR048" (at 106.68 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 104.14 103.505 90)
@@ -801,7 +801,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/b98961c6-5a9e-45f8-94a5-02c3a7ae5bfc"
-          (reference "#PWR046") (unit 1)
+          (reference "#PWR048") (unit 1)
         )
       )
     )

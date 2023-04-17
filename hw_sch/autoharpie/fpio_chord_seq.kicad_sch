@@ -1412,7 +1412,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 48.26 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 005ae163-94b4-4f99-a5cf-f6d26f115f1d)
-    (property "Reference" "SW3" (at 49.53 23.495 90)
+    (property "Reference" "SW4" (at 49.53 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 49.53 26.035 90)
@@ -1429,7 +1429,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW3") (unit 1)
+          (reference "SW4") (unit 1)
         )
       )
     )
@@ -1438,7 +1438,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 48.26 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00b61ffd-6b5c-423d-b020-793efbac38d7)
-    (property "Reference" "SW15" (at 49.53 48.895 90)
+    (property "Reference" "SW16" (at 49.53 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 49.53 51.435 90)
@@ -1455,7 +1455,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW15") (unit 1)
+          (reference "SW16") (unit 1)
         )
       )
     )
@@ -1464,7 +1464,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 170.18 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 06882d41-a607-46da-b507-9c9334f33d26)
-    (property "Reference" "SW33" (at 171.45 75.565 90)
+    (property "Reference" "SW34" (at 171.45 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 171.45 78.105 90)
@@ -1481,7 +1481,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW33") (unit 1)
+          (reference "SW34") (unit 1)
         )
       )
     )
@@ -1490,7 +1490,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08eca742-5b53-4da5-9485-5420007bfca2)
-    (property "Reference" "SW48" (at 232.41 97.155 90)
+    (property "Reference" "SW49" (at 232.41 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 232.41 99.695 90)
@@ -1507,7 +1507,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW48") (unit 1)
+          (reference "SW49") (unit 1)
         )
       )
     )
@@ -1516,7 +1516,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 109.22 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ac88cf3-e462-4674-86b9-0df8bd161c74)
-    (property "Reference" "SW42" (at 110.49 97.155 90)
+    (property "Reference" "SW43" (at 110.49 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 110.49 99.695 90)
@@ -1533,7 +1533,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW42") (unit 1)
+          (reference "SW43") (unit 1)
         )
       )
     )
@@ -1542,7 +1542,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 188535e0-014c-4650-a6ce-082464b5a919)
-    (property "Reference" "SW24" (at 232.41 48.895 90)
+    (property "Reference" "SW25" (at 232.41 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 232.41 51.435 90)
@@ -1559,7 +1559,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW24") (unit 1)
+          (reference "SW25") (unit 1)
         )
       )
     )
@@ -1568,7 +1568,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 48.26 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 215f4d67-8e4d-48ba-a711-c08059e73ef0)
-    (property "Reference" "SW27" (at 49.53 75.565 90)
+    (property "Reference" "SW28" (at 49.53 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 49.53 78.105 90)
@@ -1585,7 +1585,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW27") (unit 1)
+          (reference "SW28") (unit 1)
         )
       )
     )
@@ -1594,7 +1594,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 251.46 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21a6f006-4e46-4c66-a7db-162a8681045d)
-    (property "Reference" "SW25" (at 252.73 48.895 90)
+    (property "Reference" "SW26" (at 252.73 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 252.73 51.435 90)
@@ -1611,7 +1611,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW25") (unit 1)
+          (reference "SW26") (unit 1)
         )
       )
     )
@@ -1620,7 +1620,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 251.46 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22a37996-719e-4a18-9d82-0e58bb883b92)
-    (property "Reference" "SW37" (at 252.73 75.565 90)
+    (property "Reference" "SW38" (at 252.73 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 252.73 78.105 90)
@@ -1637,7 +1637,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW37") (unit 1)
+          (reference "SW38") (unit 1)
         )
       )
     )
@@ -1646,7 +1646,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 251.46 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2905a4d8-9304-4aa9-be50-6a9e1036d072)
-    (property "Reference" "SW49" (at 252.73 97.155 90)
+    (property "Reference" "SW50" (at 252.73 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 252.73 99.695 90)
@@ -1663,7 +1663,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW49") (unit 1)
+          (reference "SW50") (unit 1)
         )
       )
     )
@@ -1672,7 +1672,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 129.54 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 32f6b3ad-f7ff-44eb-be9b-250179d39933)
-    (property "Reference" "SW19" (at 130.81 48.895 90)
+    (property "Reference" "SW20" (at 130.81 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 130.81 51.435 90)
@@ -1689,7 +1689,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW19") (unit 1)
+          (reference "SW20") (unit 1)
         )
       )
     )
@@ -1698,7 +1698,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 331b545e-ed2d-4a13-8024-3cdeb513a2c1)
-    (property "Reference" "SW12" (at 232.41 23.495 90)
+    (property "Reference" "SW13" (at 232.41 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 232.41 26.035 90)
@@ -1715,7 +1715,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW12") (unit 1)
+          (reference "SW13") (unit 1)
         )
       )
     )
@@ -1724,7 +1724,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 68.58 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3afbe6ba-dd0c-4949-86c4-1ac7f8a8f390)
-    (property "Reference" "SW40" (at 69.85 97.155 90)
+    (property "Reference" "SW41" (at 69.85 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 69.85 99.695 90)
@@ -1741,7 +1741,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW40") (unit 1)
+          (reference "SW41") (unit 1)
         )
       )
     )
@@ -1750,7 +1750,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 149.86 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3be95eea-3dd1-4f9f-bc0e-9d4955087c36)
-    (property "Reference" "SW56" (at 151.13 120.015 90)
+    (property "Reference" "SW57" (at 151.13 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 151.13 122.555 90)
@@ -1767,7 +1767,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW56") (unit 1)
+          (reference "SW57") (unit 1)
         )
       )
     )
@@ -1776,7 +1776,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 190.5 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3dadd6a1-bd3b-4a77-8f07-3c2703f9990b)
-    (property "Reference" "SW34" (at 191.77 75.565 90)
+    (property "Reference" "SW35" (at 191.77 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 191.77 78.105 90)
@@ -1793,7 +1793,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW34") (unit 1)
+          (reference "SW35") (unit 1)
         )
       )
     )
@@ -1802,7 +1802,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 190.5 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 463f3dae-be53-4aeb-a973-05bd63405994)
-    (property "Reference" "SW58" (at 191.77 120.015 90)
+    (property "Reference" "SW59" (at 191.77 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 191.77 122.555 90)
@@ -1819,7 +1819,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW58") (unit 1)
+          (reference "SW59") (unit 1)
         )
       )
     )
@@ -1828,7 +1828,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 149.86 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 47727e00-525c-41d7-b8b2-a919ccdcaeda)
-    (property "Reference" "SW20" (at 151.13 48.895 90)
+    (property "Reference" "SW21" (at 151.13 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 151.13 51.435 90)
@@ -1845,7 +1845,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW20") (unit 1)
+          (reference "SW21") (unit 1)
         )
       )
     )
@@ -1854,7 +1854,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 129.54 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 49189025-b898-41cf-8c0b-4ba996e6cfed)
-    (property "Reference" "SW43" (at 130.81 97.155 90)
+    (property "Reference" "SW44" (at 130.81 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 130.81 99.695 90)
@@ -1871,7 +1871,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW43") (unit 1)
+          (reference "SW44") (unit 1)
         )
       )
     )
@@ -1880,7 +1880,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 109.22 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4c5f4fe1-a7ec-4029-b1d9-9d7f3f37071c)
-    (property "Reference" "SW18" (at 110.49 48.895 90)
+    (property "Reference" "SW19" (at 110.49 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 110.49 51.435 90)
@@ -1897,7 +1897,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW18") (unit 1)
+          (reference "SW19") (unit 1)
         )
       )
     )
@@ -1906,7 +1906,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 27.94 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4e647299-6c57-453a-ab02-09864b1d250b)
-    (property "Reference" "SW38" (at 29.21 97.155 90)
+    (property "Reference" "SW39" (at 29.21 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 29.21 99.695 90)
@@ -1923,7 +1923,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW38") (unit 1)
+          (reference "SW39") (unit 1)
         )
       )
     )
@@ -1932,7 +1932,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 88.9 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4f6ce0e2-f24f-4985-9824-e2f7284eb166)
-    (property "Reference" "SW53" (at 90.17 120.015 90)
+    (property "Reference" "SW54" (at 90.17 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 90.17 122.555 90)
@@ -1949,7 +1949,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW53") (unit 1)
+          (reference "SW54") (unit 1)
         )
       )
     )
@@ -1958,7 +1958,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 210.82 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5693e5d3-cfb8-486c-b7e0-bdaf141c8332)
-    (property "Reference" "SW11" (at 212.09 23.495 90)
+    (property "Reference" "SW12" (at 212.09 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 212.09 26.035 90)
@@ -1975,7 +1975,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW11") (unit 1)
+          (reference "SW12") (unit 1)
         )
       )
     )
@@ -1984,7 +1984,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 149.86 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 571dea1a-1bac-457b-bb6a-7c13c7f6bc7f)
-    (property "Reference" "SW8" (at 151.13 23.495 90)
+    (property "Reference" "SW9" (at 151.13 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 151.13 26.035 90)
@@ -2001,7 +2001,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW8") (unit 1)
+          (reference "SW9") (unit 1)
         )
       )
     )
@@ -2010,7 +2010,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 57a3219b-6d5e-4b12-8765-1ce0e9ea726c)
-    (property "Reference" "SW36" (at 232.41 75.565 90)
+    (property "Reference" "SW37" (at 232.41 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 232.41 78.105 90)
@@ -2027,7 +2027,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW36") (unit 1)
+          (reference "SW37") (unit 1)
         )
       )
     )
@@ -2036,7 +2036,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 210.82 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 61525131-9bc8-42d1-b73d-f2fa03d35267)
-    (property "Reference" "SW59" (at 212.09 120.015 90)
+    (property "Reference" "SW60" (at 212.09 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 212.09 122.555 90)
@@ -2053,7 +2053,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW59") (unit 1)
+          (reference "SW60") (unit 1)
         )
       )
     )
@@ -2062,7 +2062,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 170.18 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67366a68-9aa9-4c5b-a984-5d5f5cde9531)
-    (property "Reference" "SW21" (at 171.45 48.895 90)
+    (property "Reference" "SW22" (at 171.45 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 171.45 51.435 90)
@@ -2079,7 +2079,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW21") (unit 1)
+          (reference "SW22") (unit 1)
         )
       )
     )
@@ -2088,7 +2088,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 88.9 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 687e841b-7db4-4b0c-b2b6-2d8f6473a754)
-    (property "Reference" "SW17" (at 90.17 48.895 90)
+    (property "Reference" "SW18" (at 90.17 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 90.17 51.435 90)
@@ -2105,7 +2105,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW17") (unit 1)
+          (reference "SW18") (unit 1)
         )
       )
     )
@@ -2114,7 +2114,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 68.58 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b4c6550-98be-4aaf-adf1-345bb90b39c4)
-    (property "Reference" "SW28" (at 69.85 75.565 90)
+    (property "Reference" "SW29" (at 69.85 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 69.85 78.105 90)
@@ -2131,7 +2131,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW28") (unit 1)
+          (reference "SW29") (unit 1)
         )
       )
     )
@@ -2140,7 +2140,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 68.58 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6d5b8a37-cf1f-448a-8361-4f26edee7304)
-    (property "Reference" "SW16" (at 69.85 48.895 90)
+    (property "Reference" "SW17" (at 69.85 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 69.85 51.435 90)
@@ -2157,7 +2157,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW16") (unit 1)
+          (reference "SW17") (unit 1)
         )
       )
     )
@@ -2166,7 +2166,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 27.94 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 81ebb82a-7f79-4ee2-8f1b-4f9de002ceb1)
-    (property "Reference" "SW50" (at 29.21 120.015 90)
+    (property "Reference" "SW51" (at 29.21 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 29.21 122.555 90)
@@ -2183,7 +2183,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW50") (unit 1)
+          (reference "SW51") (unit 1)
         )
       )
     )
@@ -2192,7 +2192,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 88.9 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a8634d5-eda7-4130-b2a4-7a4f450d6241)
-    (property "Reference" "SW5" (at 90.17 23.495 90)
+    (property "Reference" "SW6" (at 90.17 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 90.17 26.035 90)
@@ -2209,7 +2209,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW5") (unit 1)
+          (reference "SW6") (unit 1)
         )
       )
     )
@@ -2218,7 +2218,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 129.54 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8afeb9e4-6c73-40f2-bb63-1ab8ecd2266b)
-    (property "Reference" "SW55" (at 130.81 120.015 90)
+    (property "Reference" "SW56" (at 130.81 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 130.81 122.555 90)
@@ -2235,7 +2235,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW55") (unit 1)
+          (reference "SW56") (unit 1)
         )
       )
     )
@@ -2244,7 +2244,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 210.82 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8b2f7dce-01c8-4493-bd09-b74428b8f049)
-    (property "Reference" "SW23" (at 212.09 48.895 90)
+    (property "Reference" "SW24" (at 212.09 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 212.09 51.435 90)
@@ -2261,7 +2261,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW23") (unit 1)
+          (reference "SW24") (unit 1)
         )
       )
     )
@@ -2270,7 +2270,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 48.26 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8c4debb6-9c13-41e3-96de-2e5d8b13da43)
-    (property "Reference" "SW51" (at 49.53 120.015 90)
+    (property "Reference" "SW52" (at 49.53 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 49.53 122.555 90)
@@ -2287,7 +2287,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW51") (unit 1)
+          (reference "SW52") (unit 1)
         )
       )
     )
@@ -2296,7 +2296,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 68.58 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 90eefbad-1dd8-43ee-aeb1-b13162c6c230)
-    (property "Reference" "SW4" (at 69.85 23.495 90)
+    (property "Reference" "SW5" (at 69.85 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 69.85 26.035 90)
@@ -2313,7 +2313,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW4") (unit 1)
+          (reference "SW5") (unit 1)
         )
       )
     )
@@ -2322,7 +2322,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 170.18 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9248f957-3f56-4b36-b5e0-bdcae5a0108b)
-    (property "Reference" "SW45" (at 171.45 97.155 90)
+    (property "Reference" "SW46" (at 171.45 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 171.45 99.695 90)
@@ -2339,7 +2339,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW45") (unit 1)
+          (reference "SW46") (unit 1)
         )
       )
     )
@@ -2348,7 +2348,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 251.46 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 93b4ef96-fb23-47f7-8a39-9dd61c1b870c)
-    (property "Reference" "SW13" (at 252.73 23.495 90)
+    (property "Reference" "SW14" (at 252.73 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 252.73 26.035 90)
@@ -2365,7 +2365,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW13") (unit 1)
+          (reference "SW14") (unit 1)
         )
       )
     )
@@ -2374,7 +2374,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 170.18 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a54a72f9-69dc-43d4-93c6-07d8fbdec724)
-    (property "Reference" "SW57" (at 171.45 120.015 90)
+    (property "Reference" "SW58" (at 171.45 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 171.45 122.555 90)
@@ -2391,7 +2391,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW57") (unit 1)
+          (reference "SW58") (unit 1)
         )
       )
     )
@@ -2400,7 +2400,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 149.86 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a5784286-ccec-4ecf-afa1-8698b3f8475d)
-    (property "Reference" "SW44" (at 151.13 97.155 90)
+    (property "Reference" "SW45" (at 151.13 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 151.13 99.695 90)
@@ -2417,7 +2417,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW44") (unit 1)
+          (reference "SW45") (unit 1)
         )
       )
     )
@@ -2426,7 +2426,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 109.22 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a9202c98-6a41-42de-a625-7f0087b55a44)
-    (property "Reference" "SW30" (at 110.49 75.565 90)
+    (property "Reference" "SW31" (at 110.49 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 110.49 78.105 90)
@@ -2443,7 +2443,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW30") (unit 1)
+          (reference "SW31") (unit 1)
         )
       )
     )
@@ -2452,7 +2452,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 88.9 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aa6eca7b-2351-41b3-a28b-8e21ff45e390)
-    (property "Reference" "SW41" (at 90.17 97.155 90)
+    (property "Reference" "SW42" (at 90.17 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 90.17 99.695 90)
@@ -2469,7 +2469,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW41") (unit 1)
+          (reference "SW42") (unit 1)
         )
       )
     )
@@ -2478,7 +2478,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 190.5 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b6462f39-37d3-4312-b3a2-20a94bc2060e)
-    (property "Reference" "SW10" (at 191.77 23.495 90)
+    (property "Reference" "SW11" (at 191.77 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 191.77 26.035 90)
@@ -2495,7 +2495,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW10") (unit 1)
+          (reference "SW11") (unit 1)
         )
       )
     )
@@ -2504,7 +2504,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 68.58 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bfddd194-ca08-43ce-8a73-ab7f243a2faf)
-    (property "Reference" "SW52" (at 69.85 120.015 90)
+    (property "Reference" "SW53" (at 69.85 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 69.85 122.555 90)
@@ -2521,7 +2521,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW52") (unit 1)
+          (reference "SW53") (unit 1)
         )
       )
     )
@@ -2530,7 +2530,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 27.94 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d0798aa1-13d4-489a-9fb2-a0c09f7a615a)
-    (property "Reference" "SW2" (at 29.21 23.495 90)
+    (property "Reference" "SW3" (at 29.21 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 29.21 26.035 90)
@@ -2547,7 +2547,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW2") (unit 1)
+          (reference "SW3") (unit 1)
         )
       )
     )
@@ -2556,7 +2556,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 190.5 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d424bf5e-846b-477f-9bb7-e15781625669)
-    (property "Reference" "SW22" (at 191.77 48.895 90)
+    (property "Reference" "SW23" (at 191.77 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 191.77 51.435 90)
@@ -2573,7 +2573,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW22") (unit 1)
+          (reference "SW23") (unit 1)
         )
       )
     )
@@ -2582,7 +2582,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 109.22 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d74387ce-85c0-45a0-bb2c-3a2664f55194)
-    (property "Reference" "SW6" (at 110.49 23.495 90)
+    (property "Reference" "SW7" (at 110.49 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 110.49 26.035 90)
@@ -2599,7 +2599,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW6") (unit 1)
+          (reference "SW7") (unit 1)
         )
       )
     )
@@ -2608,7 +2608,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 48.26 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e0458f50-42c3-40e9-9ef2-426231b94960)
-    (property "Reference" "SW39" (at 49.53 97.155 90)
+    (property "Reference" "SW40" (at 49.53 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 49.53 99.695 90)
@@ -2625,7 +2625,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW39") (unit 1)
+          (reference "SW40") (unit 1)
         )
       )
     )
@@ -2634,7 +2634,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5ca70db-085c-486c-a1f5-869e92398251)
-    (property "Reference" "SW60" (at 232.41 120.015 90)
+    (property "Reference" "SW61" (at 232.41 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 232.41 122.555 90)
@@ -2651,7 +2651,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW60") (unit 1)
+          (reference "SW61") (unit 1)
         )
       )
     )
@@ -2660,7 +2660,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 109.22 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e7f4f7fe-409c-4170-b959-143b9bed38d5)
-    (property "Reference" "SW54" (at 110.49 120.015 90)
+    (property "Reference" "SW55" (at 110.49 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 110.49 122.555 90)
@@ -2677,7 +2677,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW54") (unit 1)
+          (reference "SW55") (unit 1)
         )
       )
     )
@@ -2686,7 +2686,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 170.18 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e8110930-78c5-4799-a05a-238506c3b540)
-    (property "Reference" "SW9" (at 171.45 23.495 90)
+    (property "Reference" "SW10" (at 171.45 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 171.45 26.035 90)
@@ -2703,7 +2703,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW9") (unit 1)
+          (reference "SW10") (unit 1)
         )
       )
     )
@@ -2712,7 +2712,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 190.5 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e873e791-a261-4aba-9c4a-4446c4e42e53)
-    (property "Reference" "SW46" (at 191.77 97.155 90)
+    (property "Reference" "SW47" (at 191.77 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 191.77 99.695 90)
@@ -2729,7 +2729,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW46") (unit 1)
+          (reference "SW47") (unit 1)
         )
       )
     )
@@ -2738,7 +2738,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 149.86 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e9d2a60c-c829-400e-b941-bc63bbefd6d0)
-    (property "Reference" "SW32" (at 151.13 75.565 90)
+    (property "Reference" "SW33" (at 151.13 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 151.13 78.105 90)
@@ -2755,7 +2755,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW32") (unit 1)
+          (reference "SW33") (unit 1)
         )
       )
     )
@@ -2764,7 +2764,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 88.9 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ebe91163-2693-4017-b892-22a909f2b281)
-    (property "Reference" "SW29" (at 90.17 75.565 90)
+    (property "Reference" "SW30" (at 90.17 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 90.17 78.105 90)
@@ -2781,7 +2781,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW29") (unit 1)
+          (reference "SW30") (unit 1)
         )
       )
     )
@@ -2790,7 +2790,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 27.94 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f2352bd3-63a1-4717-95c3-6137401c6170)
-    (property "Reference" "SW14" (at 29.21 48.895 90)
+    (property "Reference" "SW15" (at 29.21 48.895 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 29.21 51.435 90)
@@ -2807,7 +2807,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW14") (unit 1)
+          (reference "SW15") (unit 1)
         )
       )
     )
@@ -2816,7 +2816,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 251.46 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f48b833f-6372-4636-a45f-dd98b772b692)
-    (property "Reference" "SW61" (at 252.73 120.015 90)
+    (property "Reference" "SW62" (at 252.73 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 252.73 122.555 90)
@@ -2833,7 +2833,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW61") (unit 1)
+          (reference "SW62") (unit 1)
         )
       )
     )
@@ -2842,7 +2842,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 210.82 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4f3b67c-26e3-4200-9ff0-7e6e453f6d57)
-    (property "Reference" "SW47" (at 212.09 97.155 90)
+    (property "Reference" "SW48" (at 212.09 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 212.09 99.695 90)
@@ -2859,7 +2859,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW47") (unit 1)
+          (reference "SW48") (unit 1)
         )
       )
     )
@@ -2868,7 +2868,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 129.54 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5c1bacd-be61-4ab6-8542-5c0d6627f0ca)
-    (property "Reference" "SW7" (at 130.81 23.495 90)
+    (property "Reference" "SW8" (at 130.81 23.495 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 130.81 26.035 90)
@@ -2885,7 +2885,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW7") (unit 1)
+          (reference "SW8") (unit 1)
         )
       )
     )
@@ -2894,7 +2894,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 27.94 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f6c5b21b-9212-438e-82fd-14631a6e1a4a)
-    (property "Reference" "SW26" (at 29.21 75.565 90)
+    (property "Reference" "SW27" (at 29.21 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 29.21 78.105 90)
@@ -2911,7 +2911,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW26") (unit 1)
+          (reference "SW27") (unit 1)
         )
       )
     )
@@ -2920,7 +2920,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 210.82 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f830ed6e-9d38-4954-b59b-7f975e6f6675)
-    (property "Reference" "SW35" (at 212.09 75.565 90)
+    (property "Reference" "SW36" (at 212.09 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 212.09 78.105 90)
@@ -2937,7 +2937,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW35") (unit 1)
+          (reference "SW36") (unit 1)
         )
       )
     )
@@ -2946,7 +2946,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 129.54 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f90b51b8-5a6d-44fa-9a73-f90a7c7054a5)
-    (property "Reference" "SW31" (at 130.81 75.565 90)
+    (property "Reference" "SW32" (at 130.81 75.565 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_Push" (at 130.81 78.105 90)
@@ -2963,7 +2963,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/a5454afe-f088-4ae6-b4c1-03a29f3e11e0"
-          (reference "SW31") (unit 1)
+          (reference "SW32") (unit 1)
         )
       )
     )

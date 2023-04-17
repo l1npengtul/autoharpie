@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MAX9867ETJ+T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-05-14:28:06)
+    (mountForm default
+        (footprintRef "QFN50P500X500X80-33N")
+        (spec "System")
+    )
+)

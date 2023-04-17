@@ -1,0 +1,9 @@
+Manufacturer=CUI Devices
+PartNumber=SDS-50J
+PartCategory=Connector
+PackageCategory=Other
+PinCount=9
+Version=1.2
+Released=2020-02-03 14:01:50
+Downloaded=2023-04-15 05:23:24
+3D=Y

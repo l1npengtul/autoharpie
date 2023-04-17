@@ -1,0 +1,217 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SDS-50J"
+   (description "Circular DIN Connectors")
+   (family "CON")
+   (package "SDS50J")
+   (attribute "Datasheet Link" "https://www.mouser.com/datasheet/2/670/sds-xxj-1312653.pdf")
+   (attribute "Geometry.Height" "21.1mm")
+   (attribute "Manufacturer_Name" "CUI Devices")
+   (attribute "Manufacturer_Part_Number" "SDS-50J")
+   (attribute "Mouser Part Number" "490-SDS-50J")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SDS-50J?qs=WyjlAZoYn50GAH9uA%252BxiOw%3D%3D")
+   (attribute "Arrow Part Number" "SDS-50J")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/sds-50j/cui-devices?region=nac")
+   (gate
+    (symbol "SDS-50J")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+    (pin "MH3" MH3 PS)
+    (pin "MH4" MH4 PS)
+   )
+  )
+  (symbol "SDS-50J"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SDS50J"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -17.5 -12.5)
+      (pt 2.5 -12.5)
+      (pt 2.5 3.3)
+      (pt -17.5 3.3)
+      (pt -17.5 -12.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 3.3)
+      (pt 2.5 3.3)
+      (pt 2.5 3.3)
+      (pt -1 3.3)
+      (pt -1 3.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 2.5 3.3)
+      (pt 2.5 3.3)
+      (pt 2.5 -12.5)
+      (pt 2.5 -12.5)
+      (pt 2.5 3.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 2.5 -12.5)
+      (pt -17.5 -12.5)
+      (pt -17.5 -12.5)
+      (pt 2.5 -12.5)
+      (pt 2.5 -12.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -17.5 -12.5)
+      (pt -17.5 -12.5)
+      (pt -17.5 3.3)
+      (pt -17.5 3.3)
+      (pt -17.5 -12.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -17.5 3.3)
+      (pt -14 3.3)
+      (pt -14 3.3)
+      (pt -17.5 3.3)
+      (pt -17.5 3.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.75 3.3)
+      (pt -4 3.3)
+      (pt -4 3.3)
+      (pt -10.75 3.3)
+      (pt -10.75 3.3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -18.5 4.475)
+      (pt 4.2 4.475)
+      (pt 4.2 -13.5)
+      (pt -18.5 -13.5)
+      (pt -18.5 4.475))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 3.1 0)
+      (arc (pt 3.100 0.000) (pt 3.100 -0.050) (pt 3.200 0.050) (start 180.0) (sweep 180.0))
+      (pt 3.2 0)
+      (arc (pt 3.200 0.000) (pt 3.100 -0.050) (pt 3.200 0.050) (start 180.0) (sweep .0))
+      (pt 3.1 0)
+      (arc (pt 3.100 0.000) (pt 3.100 -0.050) (pt 3.200 0.050) (start 180.0) (sweep 180.0))
+      (pt 3.2 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt -7.500 0.000) (padstack 0))
+   (leg 3 (pt -15.000 0.000) (padstack 0))
+   (leg 4 (pt -2.500 2.500) (padstack 0))
+   (leg 5 (pt -12.500 2.500) (padstack 0))
+   (leg MH1 (pt -5.000 -10.000) (padstack 0))
+   (leg MH2 (pt -10.000 -10.000) (padstack 0))
+   (leg MH3 (pt 0.000 -5.000) (padstack 8))
+   (leg MH4 (pt -15.000 -5.000) (padstack 9))
+   (padstack 0
+    (hole 1.3)
+    (plated true)
+    (pad (layer TCOP) (round 1.950))
+    (pad (layer INNER) (round 1.950))
+    (pad (layer BCOP) (round 1.950))
+   )
+   (padstack 8
+    (hole 2.4)
+    (plated true)
+    (pad (layer TCOP) (round 3.600))
+    (pad (layer INNER) (round 3.600))
+    (pad (layer BCOP) (round 3.600))
+   )
+   (padstack 9
+    (hole 2.4)
+    (plated true)
+    (pad (layer TCOP) (round 3.600))
+    (pad (layer INNER) (round 3.600))
+    (pad (layer BCOP) (round 3.600))
+   )
+   (model "SDS-50J.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

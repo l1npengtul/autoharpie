@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SDS-50J
+D Circular DIN Connectors
+K
+F https://www.mouser.com/datasheet/2/670/sds-xxj-1312653.pdf
+$ENDCMP
+#
+#End Doc Library

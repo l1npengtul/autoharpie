@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX9867ETJ_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX9867ETJ+T" (!) = "", "QFN50P500X500X80-33N", "Quad Flat No-Lead", "700-MAX9867ETJT", "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX9867ETJ%2bT?qs=7H2Jq%252ByxpJInRbuh%252BD9zcw%3D%3D", "MAX9867ETJ+T", "https://www.arrow.com/en/products/max9867etjt/maxim-integrated?region=nac", "IC STEREO AUD CODEC LP 32TQFN", "https://datasheets.maximintegrated.com/en/ds/MAX9867.pdf", "0.8 mm"
+END_PART
+
+END.

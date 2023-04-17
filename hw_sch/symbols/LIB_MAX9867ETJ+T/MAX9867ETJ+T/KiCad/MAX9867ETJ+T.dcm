@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX9867ETJ+T
+D IC STEREO AUD CODEC LP 32TQFN
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX9867.pdf
+$ENDCMP
+#
+#End Doc Library

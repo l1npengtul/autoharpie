@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PEC12R-4220F-N0024
+#/960969/1090532/2.50/5/4/Undefined or Miscellaneous
+DEF PEC12R-4220F-N0024 U 0 30 Y Y 1 F N
+F0 "U" 1050 300 50 H V L CNN
+F1 "PEC12R-4220F-N0024" 1050 200 50 H V L CNN
+F2 "PEC12R4017FN0024" 1050 100 50 H I L CNN
+F3 "https://www.bourns.com/docs/Product-Datasheets/PEC12R.pdf" 1050 0 50 H I L CNN
+F4 "Encoders HORZ 24DET 24PULSE 20mm SHAFT W/O SW" 1050 -100 50 H I L CNN "Description"
+F5 "17.5" 1050 -200 50 H I L CNN "Height"
+F6 "Bourns" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PEC12R-4220F-N0024" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "652-PEC12R-4220F-N24" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bourns/PEC12R-4220F-N0024?qs=Zq5ylnUbLm5A%252BWQs5Q2ZbQ%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "PEC12R-4220F-N0024" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/pec12r-4220f-n0024/bourns" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X CHANNEL_A A1 0 0 200 R 50 50 0 0 P
+X CHANNEL_B B1 0 -200 200 R 50 50 0 0 P
+X COM C1 0 -100 200 R 50 50 0 0 P
+X 4 MH1 1200 0 200 L 50 50 0 0 P
+X 5 MH2 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

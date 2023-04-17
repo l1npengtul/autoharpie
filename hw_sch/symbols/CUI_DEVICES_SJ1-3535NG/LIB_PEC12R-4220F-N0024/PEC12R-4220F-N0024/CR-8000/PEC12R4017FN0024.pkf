@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PEC12R4017FN0024"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PEC12R4017FN0024")
+        (spec "default")
+    )
+)
