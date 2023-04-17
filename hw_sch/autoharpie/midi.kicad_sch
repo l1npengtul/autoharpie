@@ -672,7 +672,7 @@
   (symbol (lib_id "power:GND") (at 113.03 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0966e1eb-fcdd-4a12-8b4e-d55f4d9c9fdb)
-    (property "Reference" "#PWR041" (at 113.03 63.5 0)
+    (property "Reference" "#PWR042" (at 113.03 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 113.03 62.23 0)
@@ -688,7 +688,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
@@ -697,7 +697,7 @@
   (symbol (lib_id "power:+3V3") (at 50.8 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1a56fb72-3022-409a-933a-516d20deec63)
-    (property "Reference" "#PWR042" (at 50.8 78.74 0)
+    (property "Reference" "#PWR043" (at 50.8 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 50.8 71.12 0)
@@ -713,7 +713,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
-          (reference "#PWR042") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
     )
@@ -875,7 +875,7 @@
   (symbol (lib_id "power:+3V3") (at 113.03 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 786d71ad-f389-4d8c-a1b9-d4fc7653d299)
-    (property "Reference" "#PWR040" (at 113.03 33.02 0)
+    (property "Reference" "#PWR041" (at 113.03 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 113.03 25.4 0)
@@ -891,7 +891,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
-          (reference "#PWR040") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
     )
@@ -996,7 +996,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x03_Counter_Clockwise") (at 140.97 67.31 0) (mirror y) (unit 1)
     (in_bom yes) (on_board no) (dnp no)
     (uuid f009d8e1-c7a9-4ae4-b032-bac9f0e04675)
-    (property "Reference" "XU6" (at 139.7 59.69 0)
+    (property "Reference" "XU3" (at 139.7 59.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_02x03_Counter_Clockwise" (at 139.7 62.23 0)
@@ -1017,7 +1017,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71/27ed800e-6367-4383-9a1e-f16e4f370da3"
-          (reference "XU6") (unit 1)
+          (reference "XU3") (unit 1)
         )
       )
     )

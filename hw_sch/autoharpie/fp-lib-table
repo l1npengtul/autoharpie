@@ -10,4 +10,5 @@
   (lib (name "capsens")(type "KiCad")(uri "${KIPRJMOD}/symbols/capsens.pretty")(options "")(descr ""))
   (lib (name "MAB5SH")(type "KiCad")(uri "${KIPRJMOD}/symbols/MAB5SH")(options "")(descr ""))
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_SDS-50J/SDS-50J/KiCad")(options "")(descr ""))
+  (lib (name "max")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_MAX9867ETJ+T/MAX9867ETJ+T/KiCad")(options "")(descr ""))
 )

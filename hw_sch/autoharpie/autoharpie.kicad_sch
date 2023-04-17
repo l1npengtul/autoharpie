@@ -483,6 +483,10 @@
     (stroke (width 0) (type default))
     (uuid 965aa718-d79f-4ed9-8924-151e1d361d62)
   )
+  (wire (pts (xy 173.99 55.88) (xy 208.28 55.88))
+    (stroke (width 0) (type default))
+    (uuid 97827ae6-8c50-4ecc-a998-43e849fe9cf3)
+  )
   (wire (pts (xy 173.99 39.37) (xy 208.28 39.37))
     (stroke (width 0) (type default))
     (uuid 9ee21b58-8f71-4c45-9ee7-c50629475b82)
@@ -768,7 +772,7 @@
   (symbol (lib_id "power:GND") (at 191.77 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 53cb28dd-cfad-4ffb-b335-f7855b0ec2fc)
-    (property "Reference" "#PWR0145" (at 191.77 157.48 0)
+    (property "Reference" "#PWR09" (at 191.77 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 191.77 156.21 0)
@@ -784,7 +788,7 @@
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71"
-          (reference "#PWR0145") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -1212,6 +1216,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 6f124433-2f02-42b4-877f-7689f315d5aa)
     )
+    (pin "AUDIO_IRQ" input (at 173.99 55.88 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid a4dba60e-c3a0-4f99-a0ac-a8f77209f6ff)
+    )
     (instances
       (project "autoharpie"
         (path "/f22a88c4-866b-40a0-9fc2-96344be0ec71" (page "2"))
@@ -1252,6 +1260,10 @@
     (pin "I2S_LR_CLK" input (at 208.28 60.96 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 2562f4b9-dd21-433d-a399-6824fc1dd66b)
+    )
+    (pin "INT" output (at 208.28 55.88 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 4f55aba0-9e90-4354-abe7-7a3ca0b950ab)
     )
     (instances
       (project "autoharpie"
